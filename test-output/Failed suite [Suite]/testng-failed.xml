@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Failed suite [Suite]]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="TestScenario.ListenerClass"/>
+  </listeners>
+  <test parallel="tests" name="FlyCartTests(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestScenario.ValidateCheckoutPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateCheckoutPage -->
+      <class name="TestScenario.ValidateShoppingCart">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateShoppingCart -->
+      <class name="TestScenario.ValidateReOrderPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateReOrderPage -->
+      <class name="TestScenario.ValidateFlyCartPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TC_ValidateFlyCartwithProductsInIt"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateFlyCartPage -->
+    </classes>
+  </test> <!-- FlyCartTests(failed)(failed) -->
+  <test parallel="tests" name="Checkout Tests(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestScenario.ValidateCheckoutPage">
+        <methods>
+          <include name="ValidateExpressCheckoutoptionsAreFunctional"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateCheckoutPage -->
+      <class name="TestScenario.ValidateShoppingCart">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateShoppingCart -->
+      <class name="TestScenario.ValidateReOrderPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateReOrderPage -->
+      <class name="TestScenario.ValidateFlyCartPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateFlyCartPage -->
+    </classes>
+  </test> <!-- Checkout Tests(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

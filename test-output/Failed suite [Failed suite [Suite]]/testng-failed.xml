@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Failed suite [Failed suite [Suite]]]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="TestScenario.ListenerClass"/>
+  </listeners>
+  <test parallel="tests" name="FlyCartTests(failed)(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestScenario.ValidateGiftCardFunctionality">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateGiftCardFunctionality -->
+      <class name="TestScenario.ValidateSizeGuide">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateSizeGuide -->
+      <class name="TestScenario.ValidateSingleCollectionPages">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateSingleCollectionPages -->
+      <class name="TestScenario.ValidateFlyCartPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TC_ValidateFlyCartwithProductsInIt"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateFlyCartPage -->
+      <class name="TestScenario.ValidateShoppingCart">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateShoppingCart -->
+      <class name="TestScenario.ValidateProductDetailsPage">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateProductDetailsPage -->
+      <class name="TestScenario.ValidateCheckoutPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateCheckoutPage -->
+      <class name="TestScenario.ValidateMegaCollectionPages">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateMegaCollectionPages -->
+    </classes>
+  </test> <!-- FlyCartTests(failed)(failed)(failed) -->
+  <test parallel="tests" name="ShoppingCartTests(failed)(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestScenario.ValidateGiftCardFunctionality">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateGiftCardFunctionality -->
+      <class name="TestScenario.ValidateSizeGuide">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateSizeGuide -->
+      <class name="TestScenario.ValidateSingleCollectionPages">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateSingleCollectionPages -->
+      <class name="TestScenario.ValidateShoppingCart">
+        <methods>
+          <include name="ValidateAddingAndRemovingProductsFromCart"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateShoppingCart -->
+      <class name="TestScenario.ValidateFlyCartPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateFlyCartPage -->
+      <class name="TestScenario.ValidateProductDetailsPage">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateProductDetailsPage -->
+      <class name="TestScenario.ValidateCheckoutPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateCheckoutPage -->
+      <class name="TestScenario.ValidateMegaCollectionPages">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateMegaCollectionPages -->
+    </classes>
+  </test> <!-- ShoppingCartTests(failed)(failed)(failed) -->
+  <test parallel="tests" name="Checkout Tests(failed)(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestScenario.ValidateGiftCardFunctionality">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateGiftCardFunctionality -->
+      <class name="TestScenario.ValidateSizeGuide">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateSizeGuide -->
+      <class name="TestScenario.ValidateSingleCollectionPages">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateSingleCollectionPages -->
+      <class name="TestScenario.ValidateFlyCartPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateFlyCartPage -->
+      <class name="TestScenario.ValidateShoppingCart">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateShoppingCart -->
+      <class name="TestScenario.ValidateProductDetailsPage">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateProductDetailsPage -->
+      <class name="TestScenario.ValidateCheckoutPage">
+        <methods>
+          <include name="setup"/>
+          <include name="ValidateRegisteredUserCheckoutFlow"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateCheckoutPage -->
+      <class name="TestScenario.ValidateMegaCollectionPages">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateMegaCollectionPages -->
+    </classes>
+  </test> <!-- Checkout Tests(failed)(failed)(failed) -->
+  <test parallel="tests" name="ProductPageTests(failed)(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestScenario.ValidateGiftCardFunctionality">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateGiftCardFunctionality -->
+      <class name="TestScenario.ValidateSizeGuide">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateSizeGuide -->
+      <class name="TestScenario.ValidateSingleCollectionPages">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateSingleCollectionPages -->
+      <class name="TestScenario.ValidateProductDetailsPage">
+        <methods>
+          <include name="TC_verifyReviewsSectionOnPDP"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateProductDetailsPage -->
+      <class name="TestScenario.ValidateFlyCartPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateFlyCartPage -->
+      <class name="TestScenario.ValidateShoppingCart">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateShoppingCart -->
+      <class name="TestScenario.ValidateCheckoutPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateCheckoutPage -->
+      <class name="TestScenario.ValidateMegaCollectionPages">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateMegaCollectionPages -->
+    </classes>
+  </test> <!-- ProductPageTests(failed)(failed)(failed) -->
+  <test parallel="tests" name="GiftCardPageTests(failed)(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestScenario.ValidateGiftCardFunctionality">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="ValidateGiftCardFlow"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateGiftCardFunctionality -->
+      <class name="TestScenario.ValidateSizeGuide">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateSizeGuide -->
+      <class name="TestScenario.ValidateSingleCollectionPages">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateSingleCollectionPages -->
+      <class name="TestScenario.ValidateFlyCartPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateFlyCartPage -->
+      <class name="TestScenario.ValidateShoppingCart">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateShoppingCart -->
+      <class name="TestScenario.ValidateProductDetailsPage">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateProductDetailsPage -->
+      <class name="TestScenario.ValidateCheckoutPage">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateCheckoutPage -->
+      <class name="TestScenario.ValidateMegaCollectionPages">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestScenario.ValidateMegaCollectionPages -->
+    </classes>
+  </test> <!-- GiftCardPageTests(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Suite]]] -->

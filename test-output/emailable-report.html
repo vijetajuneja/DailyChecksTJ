@@ -1,0 +1,373 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>TestNG:  Unit Test</title>
+<style type="text/css">
+table caption,table.info_table,table.result,table.passed,table.failed {margin-bottom:10px;border:1px solid #000099;border-collapse:collapse;empty-cells:show;}
+table.info_table td,table.info_table th,table.result td,table.result th,table.passed td,table.passed th,table.failed td,table.failed th {
+border:1px solid #000099;padding:.25em .5em .25em .5em
+}
+table.result th {vertical-align:bottom}
+tr.param th {padding-left:1em;padding-right:1em}
+tr.param td {padding-left:.5em;padding-right:2em}
+td.numi,th.numi,td.numi_attn {
+text-align:right
+}
+tr.total td {font-weight:bold}
+table caption {
+text-align:center;font-weight:bold;
+}
+table.passed tr.stripe td,table tr.passedodd td {background-color: #00AA00;}
+table.passed td,table tr.passedeven td {background-color: #33FF33;}
+table.passed tr.stripe td,table tr.skippedodd td {background-color: #cccccc;}
+table.passed td,table tr.skippedodd td {background-color: #dddddd;}
+table.failed tr.stripe td,table tr.failedodd td,table.result td.numi_attn {background-color: #FF3333;}
+table.failed td,table tr.failedeven td,table.result tr.stripe td.numi_attn {background-color: #DD0000;}
+tr.stripe td,tr.stripe th {background-color: #E6EBF9;}
+p.totop {font-size:85%;text-align:center;border-bottom:2px black solid}
+div.shootout {padding:2em;border:3px #4854A8 solid}
+</style>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" class="result">
+<tr><th>Test</th><th class="numi">Methods<br/>Passed</th><th class="numi">Scenarios<br/>Passed</th><th class="numi"># skipped</th><th class="numi"># failed</th><th class="numi">Total<br/>Time</th><th class="numi">Included<br/>Groups</th><th class="numi">Excluded<br/>Groups</th></tr>
+<tr><td style="text-align:left;padding-right:2em">RatingandReviews</td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">114.5 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em">WriteAReview</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi">0</td><td class="numi">87.8 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em">NavigationFlow</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi">0</td><td class="numi">57.5 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em">HomePageTests</td><td class="numi">3</td><td class="numi">3</td><td class="numi">0</td><td class="numi">0</td><td class="numi">449.5 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em">AccountLoginAndCreationTests</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi">0</td><td class="numi">79.9 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em">FlyCartTests</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi">0</td><td class="numi">144.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em">ShoppingCartTests</td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">134.8 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em">Checkout Tests</td><td class="numi">5</td><td class="numi">5</td><td class="numi">0</td><td class="numi">0</td><td class="numi">771.3 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em">QuickShop</td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">56.2 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em">SingleCollectionTests</td><td class="numi">4</td><td class="numi">4</td><td class="numi">0</td><td class="numi">0</td><td class="numi">276.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em">MegaCollectionTests</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi">0</td><td class="numi">116.8 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em">ProductPageTests</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi">0</td><td class="numi">101.8 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em">AddToCartTests</td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">60.0 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em">ReorderPagetests</td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">69.7 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr><td style="text-align:left;padding-right:2em">SizeGuideTests</td><td class="numi">2</td><td class="numi">2</td><td class="numi">0</td><td class="numi">0</td><td class="numi">106.4 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="stripe"><td style="text-align:left;padding-right:2em">PhysicalGiftCard</td><td class="numi">1</td><td class="numi">1</td><td class="numi">0</td><td class="numi">0</td><td class="numi">39.1 seconds</td><td class="numi"></td><td class="numi"></td></tr>
+<tr class="total"><td>Total</td>
+<td class="numi">32</td><td class="numi">32</td><td class="numi">0</td><td class="numi">0</td><td class="numi">2,665.5 seconds</td><td colspan="2">&nbsp;</td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" class="passed" id="summary">
+<tr><th>Class</th><th>Method</th><th># of<br/>Scenarios</th><th>Start</th><th>Time<br/>(ms)</th></tr>
+<tr><th colspan="4">RatingandReviews &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="1">TestScenario.ValidateRatingReviews</td><td><a href="#m1"><b>TC_verifyRatingAndReviews</b>  </a></td><td class="numi">1</td><td>1625206823066</td><td class="numi">63937</td></tr>
+<tr><th colspan="4">WriteAReview &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">TestScenario.ValidateWriteAReview</td><td><a href="#m2"><b>TC_verifyWriteAReview</b>  </a></td><td class="numi">1</td><td>1625206905500</td><td class="numi">23486</td></tr><tr class="passedodd"><td><a href="#m3"><b>TC_verifyWriteAReviewFieldValidation</b>  </a></td><td class="numi">1</td><td>1625206947289</td><td class="numi">27741</td></tr>
+<tr><th colspan="4">NavigationFlow &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">TestScenario.ValidateNavigationFlow</td><td><a href="#m4"><b>Validate_Men_Underwear_BoxerBrief</b>  </a></td><td class="numi">1</td><td>1625206984770</td><td class="numi">16570</td></tr><tr class="passedodd"><td><a href="#m5"><b>Validate_Women_Underwear_Cheeky</b>  </a></td><td class="numi">1</td><td>1625207012687</td><td class="numi">19960</td></tr>
+<tr><th colspan="4">HomePageTests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="3">TestScenario.ValidateHomePage</td><td><a href="#m6"><b>TC_verifyAccountdropdownOnHomePage</b>  </a></td><td class="numi">1</td><td>1625207080632</td><td class="numi">52679</td></tr><tr class="passedodd"><td><a href="#m7"><b>TC_verifyAccountAndCartIconOnHomePage</b>  </a></td><td class="numi">1</td><td>1625207162162</td><td class="numi">54461</td></tr><tr class="passedodd"><td><a href="#m8"><b>TC_ValidateSearchFunctionality</b>  </a></td><td class="numi">1</td><td>1625207227928</td><td class="numi">253999</td></tr>
+<tr><th colspan="4">AccountLoginAndCreationTests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">TestScenario.ValidateAccountLoginFunctionality</td><td><a href="#m9"><b>TC_VerifyCreateAccount</b>  </a></td><td class="numi">1</td><td>1625207500577</td><td class="numi">27733</td></tr><tr class="passedodd"><td><a href="#m10"><b>TC_VerifyAccountLogin</b>  </a></td><td class="numi">1</td><td>1625207537075</td><td class="numi">25077</td></tr>
+<tr><th colspan="4">FlyCartTests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">TestScenario.ValidateFlyCartPage</td><td><a href="#m11"><b>TC_ValidateFlyCartOpenedWithQSandPDP</b>  </a></td><td class="numi">1</td><td>1625207603463</td><td class="numi">54163</td></tr><tr class="passedodd"><td><a href="#m12"><b>TC_ValidateEmptyFlyCart</b>  </a></td><td class="numi">1</td><td>1625207667435</td><td class="numi">38682</td></tr>
+<tr><th colspan="4">ShoppingCartTests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="1">TestScenario.ValidateShoppingCart</td><td><a href="#m13"><b>ValidateCheckoutIsFunctionalFromCart</b>  </a></td><td class="numi">1</td><td>1625207715847</td><td class="numi">124853</td></tr>
+<tr><th colspan="4">Checkout Tests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="5">TestScenario.ValidateCheckoutPage</td><td><a href="#m14"><b>ValidateGuestCheckoutFlow</b>  </a></td><td class="numi">1</td><td>1625207852366</td><td class="numi">115035</td></tr><tr class="passedodd"><td><a href="#m15"><b>ValidateInformationPageOfCheckout</b>  </a></td><td class="numi">1</td><td>1625207991896</td><td class="numi">113252</td></tr><tr class="passedodd"><td><a href="#m16"><b>ValidatePaymentPageOfCheckout</b>  </a></td><td class="numi">1</td><td>1625208167568</td><td class="numi">160598</td></tr><tr class="passedodd"><td><a href="#m17"><b>ValidateRegisteredUserCheckoutFlow</b>  </a></td><td class="numi">1</td><td>1625208356179</td><td class="numi">117264</td></tr><tr class="passedodd"><td><a href="#m18"><b>ValidateShippingPageOfCheckout</b>  </a></td><td class="numi">1</td><td>1625208486341</td><td class="numi">125675</td></tr>
+<tr><th colspan="4">QuickShop &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="1">TestScenario.ValidateQuickShop</td><td><a href="#m19"><b>TC_ValidateQuickShopOnCollection</b>  </a></td><td class="numi">1</td><td>1625208635236</td><td class="numi">32980</td></tr>
+<tr><th colspan="4">SingleCollectionTests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="4">TestScenario.ValidateSingleCollectionPages</td><td><a href="#m20"><b>TC_ValidateProductImageOnSecondSkinInMenCategory</b>  </a></td><td class="numi">1</td><td>1625208692547</td><td class="numi">48282</td></tr><tr class="passedodd"><td><a href="#m21"><b>TC_ValidateProductNameOnCoolCottonInMenCategory</b>  </a></td><td class="numi">1</td><td>1625208753844</td><td class="numi">40774</td></tr><tr class="passedodd"><td><a href="#m22"><b>TC_ValidateFiltersAndSortingOnAllWomensPacksInPacksCategory</b>  </a></td><td class="numi">1</td><td>1625208809844</td><td class="numi">101521</td></tr><tr class="passedodd"><td><a href="#m23"><b>TC_ValidateColorSwatchOnSecondSkin</b>  </a></td><td class="numi">1</td><td>1625208922542</td><td class="numi">21930</td></tr>
+<tr><th colspan="4">MegaCollectionTests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">TestScenario.ValidateMegaCollectionPages</td><td><a href="#m24"><b>TC_ValidateProductImageOnAllPantiesInWomenCategory</b>  </a></td><td class="numi">1</td><td>1625208960417</td><td class="numi">71894</td></tr><tr class="passedodd"><td><a href="#m25"><b>TC_ValidateColorSwatchOnAllUndershirts</b>  </a></td><td class="numi">1</td><td>1625209042776</td><td class="numi">18482</td></tr>
+<tr><th colspan="4">ProductPageTests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">TestScenario.ValidateProductDetailsPage</td><td><a href="#m26"><b>TC_verifyProductDetailsPage</b>  </a></td><td class="numi">1</td><td>1625209080587</td><td class="numi">41518</td></tr><tr class="passedodd"><td><a href="#m27"><b>TC_VerifyJoinTheWaitlistFunctionality</b>  </a></td><td class="numi">1</td><td>1625209137786</td><td class="numi">25248</td></tr>
+<tr><th colspan="4">AddToCartTests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="1">TestScenario.AddToCartTests</td><td><a href="#m28"><b>AddToCartTestCase</b>  </a></td><td class="numi">1</td><td>1625209178653</td><td class="numi">44301</td></tr>
+<tr><th colspan="4">ReorderPagetests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="1">TestScenario.ValidateReOrderPage</td><td><a href="#m29"><b>ValidateUserIsAbleToReOrderItemFromReOrderPage</b>  </a></td><td class="numi">1</td><td>1625209243254</td><td class="numi">49354</td></tr>
+<tr><th colspan="4">SizeGuideTests &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="2">TestScenario.ValidateSizeGuide</td><td><a href="#m30"><b>TC_verifyMenUnderwearSizeGuidePage</b>  </a></td><td class="numi">1</td><td>1625209306806</td><td class="numi">34115</td></tr><tr class="passedodd"><td><a href="#m31"><b>TC_verifyWomenUnderwearSizeGuidePage</b>  </a></td><td class="numi">1</td><td>1625209361310</td><td class="numi">37769</td></tr>
+<tr><th colspan="4">PhysicalGiftCard &#8212; passed</th></tr>
+<tr class="passedodd"><td rowspan="1">TestScenario.ValidatePhysicalGiftCard</td><td><a href="#m32"><b>ValidatePhysicalGiftCardFlow</b>  </a></td><td class="numi">1</td><td>1625209421384</td><td class="numi">16843</td></tr>
+</table>
+<h1>RatingandReviews</h1>
+<h2 id="m1">TestScenario.ValidateRatingReviews:TC_verifyRatingAndReviews</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/cool-cotton-trunk/?color=jungle-print<br/>
+Review Stars Are Displayed :: Clickable :: Clicked<br/>
+Verified Reviews and Rating box section, All elements are present including fit status, fit graph, Rating label, rating count, Rating meter, Avg rating, total reviews etc<br/>
+Reviews Pagination is functional on PDP<br/>
+Rating and Reviews Displayed<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>WriteAReview</h1>
+<h2 id="m2">TestScenario.ValidateWriteAReview:TC_verifyWriteAReviewFieldValidation</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m3">TestScenario.ValidateWriteAReview:TC_verifyWriteAReview</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>NavigationFlow</h1>
+<h2 id="m4">TestScenario.ValidateNavigationFlow:Validate_Women_Underwear_Cheeky</h2>
+<div style="padding-left:3em">
+Women category is Displayed :: Hoverable :: Clickable<br/>
+Cheeky Underwear in Women's category is displayed :: Clickable<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m5">TestScenario.ValidateNavigationFlow:Validate_Men_Underwear_BoxerBrief</h2>
+<div style="padding-left:3em">
+Men category is displayed :: Hoverable<br/>
+Boxer Brief link in Men underwear category is displayed :: Clickable<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>HomePageTests</h1>
+<h2 id="m6">TestScenario.ValidateHomePage:TC_ValidateSearchFunctionality</h2>
+<div style="padding-left:3em">
+Verified Search auto suggestion functionality<br/>
+Verified Product tile hover functionality on plp<br/>
+Quick shop ATC button is displayed on hover.<br/>
+Quick shop ATC button text is validated :: Clickable.<br/>
+Quick shop size overlay is displayed.<br/>
+Quick shop size overlay is close button is displayed.<br/>
+Quick shop size overlay heading is displayed ::Correct.<br/>
+Quick shop size labels are displayed.<br/>
+Quick shop size labels are Clickable.<br/>
+Product details are validated on Inline cart.<br/>
+All filters are working correctly<br/>
+All selected items are displayed in list and removing from list<br/>
+Clear filters button works correctly<br/>
+All Products are sorted as selected option<br/>
+Search page is displayed :: Correct<br/>
+Clear recent search link is Displayed :: Clickable<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m7">TestScenario.ValidateHomePage:TC_verifyAccountAndCartIconOnHomePage</h2>
+<div style="padding-left:3em">
+Account Icon is Displayed :: Clickable<br/>
+Cart Icon is Displayed :: Clickable :: Mini Cart is Opened<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m8">TestScenario.ValidateHomePage:TC_verifyAccountdropdownOnHomePage</h2>
+<div style="padding-left:3em">
+sign in is Displayed :: Clickable<br/>
+Help center option is Displayed <br/>
+Help option is Displayed :: Clickable<br/>
+My account option is Displayed <br/>
+My account is Displayed :: Clickable<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>AccountLoginAndCreationTests</h1>
+<h2 id="m9">TestScenario.ValidateAccountLoginFunctionality:TC_VerifyCreateAccount</h2>
+<div style="padding-left:3em">
+Account Created Successfully :: User is brought to account page<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m10">TestScenario.ValidateAccountLoginFunctionality:TC_VerifyAccountLogin</h2>
+<div style="padding-left:3em">
+Account Login functionality verified successfully<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>FlyCartTests</h1>
+<h2 id="m11">TestScenario.ValidateFlyCartPage:TC_ValidateEmptyFlyCart</h2>
+<div style="padding-left:3em">
+Cart Icon is Displayed :: Clickable :: Mini Cart is Opened<br/>
+Continue Shopping button is Displayed :: Enabled :: Text is correct <br/>
+View Cart link is Displayed :: Enabled :: Text is correct <br/>
+Inline Cart Title is Displayed :: Text is correct <br/>
+Shipping message and meter absent<br/>
+'Inline cart is empty' text is Displayed<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m12">TestScenario.ValidateFlyCartPage:TC_ValidateFlyCartOpenedWithQSandPDP</h2>
+<div style="padding-left:3em">
+Validated Flyout cart opens with Quickshop<br/>
+https://tommyjohn.com/products/womens-second-skin-boxy-t-shirt-dress<br/>
+Validated Flyout cart opens with ATC from pdp<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>ShoppingCartTests</h1>
+<h2 id="m13">TestScenario.ValidateShoppingCart:ValidateCheckoutIsFunctionalFromCart</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe<br/>
+ADD TO CART button is Displayed :: Clickable<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>Checkout Tests</h1>
+<h2 id="m14">TestScenario.ValidateCheckoutPage:ValidatePaymentPageOfCheckout</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe<br/>
+ADD TO CART button is Displayed :: Clickable<br/>
+Checkout page displayed<br/>
+Shipping Address Details entered<br/>
+User is navigated to select shipping method<br/>
+User is navigated to payment page<br/>
+Validated Breadcrumbs on checkout pages<br/>
+Validated Promo Code application functionality<br/>
+How heard values are displayed:: Clickable<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m15">TestScenario.ValidateCheckoutPage:ValidateInformationPageOfCheckout</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe<br/>
+ADD TO CART button is Displayed :: Clickable<br/>
+Checkout page displayed<br/>
+Validated Breadcrumbs on checkout pages<br/>
+Validated Promo Code application functionality<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m16">TestScenario.ValidateCheckoutPage:ValidateGuestCheckoutFlow</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe<br/>
+ADD TO CART button is Displayed :: Clickable<br/>
+Email for Guest User entered successfully<br/>
+Shipping Address Details entered<br/>
+User is navigated to select shipping method<br/>
+Selected shipping method and user is navigated to payment page<br/>
+Complete Order button is enabled<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m17">TestScenario.ValidateCheckoutPage:ValidateRegisteredUserCheckoutFlow</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe<br/>
+ADD TO CART button is Displayed :: Clickable<br/>
+Checkout page displayed<br/>
+User naviagted to login page<br/>
+User logged in successfully<br/>
+Shipping Address Details entered<br/>
+User is navigated to select shipping method<br/>
+Selected shipping method and user is navigated to payment page<br/>
+Complete Order button is displayed<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m18">TestScenario.ValidateCheckoutPage:ValidateShippingPageOfCheckout</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe<br/>
+ADD TO CART button is Displayed :: Clickable<br/>
+Checkout page displayed<br/>
+Shipping Address Details entered<br/>
+User is navigated to select shipping method<br/>
+Validated Breadcrumbs on checkout pages<br/>
+Validated Promo Code application functionality<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>QuickShop</h1>
+<h2 id="m19">TestScenario.ValidateQuickShop:TC_ValidateQuickShopOnCollection</h2>
+<div style="padding-left:3em">
+Quick shop ATC button is displayed on hover.<br/>
+Quick shop ATC button text is validated :: Clickable.<br/>
+Quick shop size overlay is displayed.<br/>
+Quick shop size overlay is close button is displayed.<br/>
+Quick shop size overlay heading is displayed ::Correct.<br/>
+Quick shop size labels are displayed.<br/>
+Quick shop size labels are Clickable.<br/>
+Product details are validated on Inline cart.<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>SingleCollectionTests</h1>
+<h2 id="m20">TestScenario.ValidateSingleCollectionPages:TC_ValidateFiltersAndSortingOnAllWomensPacksInPacksCategory</h2>
+<div style="padding-left:3em">
+All filters are working correctly<br/>
+All selected items are displayed in list and removing from list<br/>
+Clear filters button works correctly<br/>
+All Products are sorted as selected option<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m21">TestScenario.ValidateSingleCollectionPages:TC_ValidateColorSwatchOnSecondSkin</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m22">TestScenario.ValidateSingleCollectionPages:TC_ValidateProductImageOnSecondSkinInMenCategory</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/pack-second-skin-trunk-3-pack/?color=dress-blues-turbulence-grey-black<br/>
+Product details page is Correct :: Product title is Displayed<br/>
+Breadcrumb is displayed on PDP.<br/>
+Vertical images are displayed on PDP.<br/>
+Size guide is Displayed :: Clickable<br/>
+Review Stars Are Displayed :: Clickable :: Clicked<br/>
+Rating and Reviews Displayed<br/>
+Colors are present and changing correct<br/>
+Product image on collection page is Displayed :: Clickable and validated successfully<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m23">TestScenario.ValidateSingleCollectionPages:TC_ValidateProductNameOnCoolCottonInMenCategory</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/cool-cotton-mid-length-boxer-brief?color=jungle-colorblock<br/>
+Product details page is Correct :: Product title is Displayed<br/>
+Breadcrumb is displayed on PDP.<br/>
+Vertical images are displayed on PDP.<br/>
+Size guide is Displayed :: Clickable<br/>
+Review Stars Are Displayed :: Clickable :: Clicked<br/>
+Rating and Reviews Displayed<br/>
+Colors are present and changing correct<br/>
+Product head line text on collection page is Displayed :: Clickable and validated successfully<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>MegaCollectionTests</h1>
+<h2 id="m24">TestScenario.ValidateMegaCollectionPages:TC_ValidateProductImageOnAllPantiesInWomenCategory</h2>
+<div style="padding-left:3em">
+Verified Product tile hover functionality on plp<br/>
+https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle<br/>
+Product details page is Correct :: Product title is Displayed<br/>
+Breadcrumb is displayed on PDP.<br/>
+Vertical images are displayed on PDP.<br/>
+Size guide is Displayed :: Clickable<br/>
+Review Stars Are Displayed :: Clickable :: Clicked<br/>
+Rating and Reviews Displayed<br/>
+Colors are present and changing correct<br/>
+Product image on collection page is Displayed :: Clickable and validated successfully<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m25">TestScenario.ValidateMegaCollectionPages:TC_ValidateColorSwatchOnAllUndershirts</h2>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>ProductPageTests</h1>
+<h2 id="m26">TestScenario.ValidateProductDetailsPage:TC_verifyProductDetailsPage</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle<br/>
+Product details page is Correct :: Product title is Displayed<br/>
+Breadcrumb is displayed on PDP.<br/>
+Vertical images are displayed on PDP.<br/>
+Size guide is Displayed :: Clickable<br/>
+Review Stars Are Displayed :: Clickable :: Clicked<br/>
+Rating and Reviews Displayed<br/>
+Colors are present and changing correct<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m27">TestScenario.ValidateProductDetailsPage:TC_VerifyJoinTheWaitlistFunctionality</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>AddToCartTests</h1>
+<h2 id="m28">TestScenario.AddToCartTests:AddToCartTestCase</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe<br/>
+ADD TO CART button is Displayed :: Clickable<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>ReorderPagetests</h1>
+<h2 id="m29">TestScenario.ValidateReOrderPage:ValidateUserIsAbleToReOrderItemFromReOrderPage</h2>
+<div style="padding-left:3em">
+Header Nav Reorder link is Displayed <br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>SizeGuideTests</h1>
+<h2 id="m30">TestScenario.ValidateSizeGuide:TC_verifyMenUnderwearSizeGuidePage</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe<br/>
+Men's Underwear Size guide is Displayed :: Clickable<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h2 id="m31">TestScenario.ValidateSizeGuide:TC_verifyWomenUnderwearSizeGuidePage</h2>
+<div style="padding-left:3em">
+https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle<br/>
+Women's Underwear size guide is Displayed :: Clickable<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+<h1>PhysicalGiftCard</h1>
+<h2 id="m32">TestScenario.ValidatePhysicalGiftCard:ValidatePhysicalGiftCardFlow</h2>
+<div style="padding-left:3em">
+Gift Cart amount radio buttons are displayed :: Clickable<br/>
+Gift card successfully added to the cart.<br/>
+Physical Gift Card title on inline cart is Displayed :: Correct<br/>
+Physical Gift Card color on inline cart is Displayed :: Correct<br/>
+Physical Gift Card price on inline cart is Displayed :: Correct<br/>
+</div>
+<p class="totop"><a href="#summary">back to summary</a></p>
+</body></html>

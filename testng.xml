@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+		<listener class-name="TestScenario.ListenerClass"></listener>
+	</listeners>
+	
+	
+	<test thread-count="1" name="RatingandReviews" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateRatingReviews" />
+		</classes>
+	</test>
+	<test thread-count="1" name="WriteAReview" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateWriteAReview" />
+		</classes>
+	</test>
+	
+	<test thread-count="1" name="NavigationFlow" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateNavigationFlow">
+				<methods>
+					<include name="Validate_Men_Underwear_BoxerBrief" />
+					<include name="Validate_Women_Underwear_Cheeky" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test thread-count="1" name="HomePageTests" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateHomePage">
+				<methods>
+					<include name="TC_verifyAccountdropdownOnHomePage" />
+					<include name="TC_verifyAccountAndCartIconOnHomePage" />
+					<include name="TC_ValidateSearchFunctionality" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test thread-count="1" name="AccountLoginAndCreationTests"
+		verbose="1" parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateAccountLoginFunctionality">
+				<methods>
+					<include name="TC_VerifyCreateAccount" />
+					<include name="TC_VerifyAccountLogin" />
+
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+
+
+	<test thread-count="1" name="FlyCartTests" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateFlyCartPage">
+				<methods>
+					<include name="TC_ValidateFlyCartOpenedWithQSandPDP" />
+					<include name="TC_ValidateEmptyFlyCart" />
+				</methods>
+
+			</class>
+		</classes>
+	</test>
+
+	<test thread-count="1" name="ShoppingCartTests" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateShoppingCart">
+				<methods>
+					<include name="ValidateCheckoutIsFunctionalFromCart" />
+				</methods>
+
+			</class>
+		</classes>
+	</test>
+
+	<test thread-count="1" name="Checkout Tests" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateCheckoutPage">
+				<methods>
+				<exclude name="TC_ValidateColorSwatchOnSecondSkin" />
+				<exclude name="ValidateExpressCheckoutoptionsAreFunctional"/>
+				</methods>
+			
+			</class>
+		</classes>
+	</test>
+
+
+	<test thread-count="1" name="QuickShop" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateQuickShop" />
+		</classes>
+	</test>
+
+	<test thread-count="1" name="SingleCollectionTests" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateSingleCollectionPages">
+				<methods>
+					<include
+						name="TC_ValidateProductImageOnSecondSkinInMenCategory" />
+					<include
+						name="TC_ValidateProductNameOnCoolCottonInMenCategory" />
+					<include
+						name="TC_ValidateFiltersAndSortingOnAllWomensPacksInPacksCategory" />
+					<include name="TC_ValidateColorSwatchOnSecondSkin" />
+				</methods>
+
+			</class>
+		</classes>
+	</test>
+
+	<test thread-count="1" name="MegaCollectionTests" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateMegaCollectionPages">
+				<methods>
+					<include
+						name="TC_ValidateProductImageOnAllPantiesInWomenCategory" />
+					<include name="TC_ValidateColorSwatchOnAllUndershirts" />
+
+				</methods>
+
+			</class>
+
+		</classes>
+	</test>
+
+
+	<test thread-count="1" name="ProductPageTests" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateProductDetailsPage">
+				<methods>
+					<include name="TC_verifyProductDetailsPage" />
+					<include name="TC_VerifyJoinTheWaitlistFunctionality" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test thread-count="1" name="AddToCartTests" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.AddToCartTests" />
+		</classes>
+	</test>
+
+	<test thread-count="1" name="ReorderPagetests" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateReOrderPage">
+				<methods>
+					<include
+						name="ValidateUserIsAbleToReOrderItemFromReOrderPage" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test thread-count="1" name="SizeGuideTests" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateSizeGuide">
+				<methods>
+					<include name="TC_verifyMenUnderwearSizeGuidePage" />
+					<include name="TC_verifyWomenUnderwearSizeGuidePage" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test thread-count="1" name="PhysicalGiftCard" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidatePhysicalGiftCard">
+				<methods>
+					<include name="ValidatePhysicalGiftCardFlow" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	
+</suite> 

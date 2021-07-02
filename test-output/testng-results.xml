@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="32" passed="32" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/cool-cotton-trunk/?color=jungle-print]]>
+    </line>
+    <line>
+      <![CDATA[Review Stars Are Displayed :: Clickable :: Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Verified Reviews and Rating box section, All elements are present including fit status, fit graph, Rating label, rating count, Rating meter, Avg rating, total reviews etc]]>
+    </line>
+    <line>
+      <![CDATA[Reviews Pagination is functional on PDP]]>
+    </line>
+    <line>
+      <![CDATA[Rating and Reviews Displayed]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle]]>
+    </line>
+    <line>
+      <![CDATA[Men category is displayed :: Hoverable]]>
+    </line>
+    <line>
+      <![CDATA[Boxer Brief link in Men underwear category is displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Women category is Displayed :: Hoverable :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Cheeky Underwear in Women's category is displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[sign in is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Help center option is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[Help option is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[My account option is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[My account is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Account Icon is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Cart Icon is Displayed :: Clickable :: Mini Cart is Opened]]>
+    </line>
+    <line>
+      <![CDATA[Verified Search auto suggestion functionality]]>
+    </line>
+    <line>
+      <![CDATA[Verified Product tile hover functionality on plp]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop ATC button is displayed on hover.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop ATC button text is validated :: Clickable.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop size overlay is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop size overlay is close button is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop size overlay heading is displayed ::Correct.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop size labels are displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop size labels are Clickable.]]>
+    </line>
+    <line>
+      <![CDATA[Product details are validated on Inline cart.]]>
+    </line>
+    <line>
+      <![CDATA[All filters are working correctly]]>
+    </line>
+    <line>
+      <![CDATA[All selected items are displayed in list and removing from list]]>
+    </line>
+    <line>
+      <![CDATA[Clear filters button works correctly]]>
+    </line>
+    <line>
+      <![CDATA[All Products are sorted as selected option]]>
+    </line>
+    <line>
+      <![CDATA[Search page is displayed :: Correct]]>
+    </line>
+    <line>
+      <![CDATA[Clear recent search link is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Account Created Successfully :: User is brought to account page]]>
+    </line>
+    <line>
+      <![CDATA[Account Login functionality verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Validated Flyout cart opens with Quickshop]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/products/womens-second-skin-boxy-t-shirt-dress]]>
+    </line>
+    <line>
+      <![CDATA[Validated Flyout cart opens with ATC from pdp]]>
+    </line>
+    <line>
+      <![CDATA[Cart Icon is Displayed :: Clickable :: Mini Cart is Opened]]>
+    </line>
+    <line>
+      <![CDATA[Continue Shopping button is Displayed :: Enabled :: Text is correct ]]>
+    </line>
+    <line>
+      <![CDATA[View Cart link is Displayed :: Enabled :: Text is correct ]]>
+    </line>
+    <line>
+      <![CDATA[Inline Cart Title is Displayed :: Text is correct ]]>
+    </line>
+    <line>
+      <![CDATA[Shipping message and meter absent]]>
+    </line>
+    <line>
+      <![CDATA['Inline cart is empty' text is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+    </line>
+    <line>
+      <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+    </line>
+    <line>
+      <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Email for Guest User entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Shipping Address Details entered]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to select shipping method]]>
+    </line>
+    <line>
+      <![CDATA[Selected shipping method and user is navigated to payment page]]>
+    </line>
+    <line>
+      <![CDATA[Complete Order button is enabled]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+    </line>
+    <line>
+      <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Checkout page displayed]]>
+    </line>
+    <line>
+      <![CDATA[Validated Breadcrumbs on checkout pages]]>
+    </line>
+    <line>
+      <![CDATA[Validated Promo Code application functionality]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+    </line>
+    <line>
+      <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Checkout page displayed]]>
+    </line>
+    <line>
+      <![CDATA[Shipping Address Details entered]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to select shipping method]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to payment page]]>
+    </line>
+    <line>
+      <![CDATA[Validated Breadcrumbs on checkout pages]]>
+    </line>
+    <line>
+      <![CDATA[Validated Promo Code application functionality]]>
+    </line>
+    <line>
+      <![CDATA[How heard values are displayed:: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+    </line>
+    <line>
+      <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Checkout page displayed]]>
+    </line>
+    <line>
+      <![CDATA[User naviagted to login page]]>
+    </line>
+    <line>
+      <![CDATA[User logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Shipping Address Details entered]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to select shipping method]]>
+    </line>
+    <line>
+      <![CDATA[Selected shipping method and user is navigated to payment page]]>
+    </line>
+    <line>
+      <![CDATA[Complete Order button is displayed]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+    </line>
+    <line>
+      <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Checkout page displayed]]>
+    </line>
+    <line>
+      <![CDATA[Shipping Address Details entered]]>
+    </line>
+    <line>
+      <![CDATA[User is navigated to select shipping method]]>
+    </line>
+    <line>
+      <![CDATA[Validated Breadcrumbs on checkout pages]]>
+    </line>
+    <line>
+      <![CDATA[Validated Promo Code application functionality]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop ATC button is displayed on hover.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop ATC button text is validated :: Clickable.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop size overlay is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop size overlay is close button is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop size overlay heading is displayed ::Correct.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop size labels are displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Quick shop size labels are Clickable.]]>
+    </line>
+    <line>
+      <![CDATA[Product details are validated on Inline cart.]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/pack-second-skin-trunk-3-pack/?color=dress-blues-turbulence-grey-black]]>
+    </line>
+    <line>
+      <![CDATA[Product details page is Correct :: Product title is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Breadcrumb is displayed on PDP.]]>
+    </line>
+    <line>
+      <![CDATA[Vertical images are displayed on PDP.]]>
+    </line>
+    <line>
+      <![CDATA[Size guide is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Review Stars Are Displayed :: Clickable :: Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Rating and Reviews Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Colors are present and changing correct]]>
+    </line>
+    <line>
+      <![CDATA[Product image on collection page is Displayed :: Clickable and validated successfully]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/cool-cotton-mid-length-boxer-brief?color=jungle-colorblock]]>
+    </line>
+    <line>
+      <![CDATA[Product details page is Correct :: Product title is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Breadcrumb is displayed on PDP.]]>
+    </line>
+    <line>
+      <![CDATA[Vertical images are displayed on PDP.]]>
+    </line>
+    <line>
+      <![CDATA[Size guide is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Review Stars Are Displayed :: Clickable :: Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Rating and Reviews Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Colors are present and changing correct]]>
+    </line>
+    <line>
+      <![CDATA[Product head line text on collection page is Displayed :: Clickable and validated successfully]]>
+    </line>
+    <line>
+      <![CDATA[All filters are working correctly]]>
+    </line>
+    <line>
+      <![CDATA[All selected items are displayed in list and removing from list]]>
+    </line>
+    <line>
+      <![CDATA[Clear filters button works correctly]]>
+    </line>
+    <line>
+      <![CDATA[All Products are sorted as selected option]]>
+    </line>
+    <line>
+      <![CDATA[Verified Product tile hover functionality on plp]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle]]>
+    </line>
+    <line>
+      <![CDATA[Product details page is Correct :: Product title is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Breadcrumb is displayed on PDP.]]>
+    </line>
+    <line>
+      <![CDATA[Vertical images are displayed on PDP.]]>
+    </line>
+    <line>
+      <![CDATA[Size guide is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Review Stars Are Displayed :: Clickable :: Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Rating and Reviews Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Colors are present and changing correct]]>
+    </line>
+    <line>
+      <![CDATA[Product image on collection page is Displayed :: Clickable and validated successfully]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle]]>
+    </line>
+    <line>
+      <![CDATA[Product details page is Correct :: Product title is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Breadcrumb is displayed on PDP.]]>
+    </line>
+    <line>
+      <![CDATA[Vertical images are displayed on PDP.]]>
+    </line>
+    <line>
+      <![CDATA[Size guide is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Review Stars Are Displayed :: Clickable :: Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Rating and Reviews Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Colors are present and changing correct]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+    </line>
+    <line>
+      <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Header Nav Reorder link is Displayed ]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+    </line>
+    <line>
+      <![CDATA[Men's Underwear Size guide is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle]]>
+    </line>
+    <line>
+      <![CDATA[Women's Underwear size guide is Displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Gift Cart amount radio buttons are displayed :: Clickable]]>
+    </line>
+    <line>
+      <![CDATA[Gift card successfully added to the cart.]]>
+    </line>
+    <line>
+      <![CDATA[Physical Gift Card title on inline cart is Displayed :: Correct]]>
+    </line>
+    <line>
+      <![CDATA[Physical Gift Card color on inline cart is Displayed :: Correct]]>
+    </line>
+    <line>
+      <![CDATA[Physical Gift Card price on inline cart is Displayed :: Correct]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-07-02T06:19:33Z" name="Suite" finished-at="2021-07-02T07:03:58Z" duration-ms="2665507">
+    <groups>
+    </groups>
+    <test started-at="2021-07-02T06:19:33Z" name="RatingandReviews" finished-at="2021-07-02T06:21:27Z" duration-ms="114457">
+      <class name="TestScenario.ValidateRatingReviews">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateRatingReviews@2dc54ad4]" started-at="2021-07-02T11:49:33Z" name="setup" finished-at="2021-07-02T11:50:23Z" duration-ms="49669" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_verifyRatingAndReviews()[pri:0, instance:TestScenario.ValidateRatingReviews@2dc54ad4]" started-at="2021-07-02T11:50:23Z" name="TC_verifyRatingAndReviews" finished-at="2021-07-02T11:51:27Z" duration-ms="63937" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/cool-cotton-trunk/?color=jungle-print]]>
+            </line>
+            <line>
+              <![CDATA[Review Stars Are Displayed :: Clickable :: Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Verified Reviews and Rating box section, All elements are present including fit status, fit graph, Rating label, rating count, Rating meter, Avg rating, total reviews etc]]>
+            </line>
+            <line>
+              <![CDATA[Reviews Pagination is functional on PDP]]>
+            </line>
+            <line>
+              <![CDATA[Rating and Reviews Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_verifyRatingAndReviews -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateRatingReviews@2dc54ad4]" started-at="2021-07-02T11:51:27Z" name="teardown" finished-at="2021-07-02T11:51:27Z" duration-ms="838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidateRatingReviews -->
+    </test> <!-- RatingandReviews -->
+    <test started-at="2021-07-02T06:21:28Z" name="WriteAReview" finished-at="2021-07-02T06:22:55Z" duration-ms="87834">
+      <class name="TestScenario.ValidateWriteAReview">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateWriteAReview@38cee291]" started-at="2021-07-02T11:51:28Z" name="setup" finished-at="2021-07-02T11:51:45Z" duration-ms="17435" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_verifyWriteAReview()[pri:0, instance:TestScenario.ValidateWriteAReview@38cee291]" started-at="2021-07-02T11:51:45Z" name="TC_verifyWriteAReview" finished-at="2021-07-02T11:52:08Z" duration-ms="23486" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_verifyWriteAReview -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateWriteAReview@38cee291]" started-at="2021-07-02T11:52:08Z" name="teardown" finished-at="2021-07-02T11:52:09Z" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateWriteAReview@38cee291]" started-at="2021-07-02T11:52:09Z" name="setup" finished-at="2021-07-02T11:52:27Z" duration-ms="17599" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_verifyWriteAReviewFieldValidation()[pri:0, instance:TestScenario.ValidateWriteAReview@38cee291]" started-at="2021-07-02T11:52:27Z" name="TC_verifyWriteAReviewFieldValidation" finished-at="2021-07-02T11:52:55Z" duration-ms="27741" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_verifyWriteAReviewFieldValidation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateWriteAReview@38cee291]" started-at="2021-07-02T11:52:55Z" name="teardown" finished-at="2021-07-02T11:52:55Z" duration-ms="867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidateWriteAReview -->
+    </test> <!-- WriteAReview -->
+    <test started-at="2021-07-02T06:22:55Z" name="NavigationFlow" finished-at="2021-07-02T06:23:53Z" duration-ms="57472">
+      <class name="TestScenario.ValidateNavigationFlow">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateNavigationFlow@d86a6f]" started-at="2021-07-02T11:52:55Z" name="setup" finished-at="2021-07-02T11:53:04Z" duration-ms="8865" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Men_Underwear_BoxerBrief()[pri:0, instance:TestScenario.ValidateNavigationFlow@d86a6f]" started-at="2021-07-02T11:53:04Z" name="Validate_Men_Underwear_BoxerBrief" finished-at="2021-07-02T11:53:21Z" duration-ms="16570" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Men category is displayed :: Hoverable]]>
+            </line>
+            <line>
+              <![CDATA[Boxer Brief link in Men underwear category is displayed :: Clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Validate_Men_Underwear_BoxerBrief -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateNavigationFlow@d86a6f]" started-at="2021-07-02T11:53:21Z" name="teardown" finished-at="2021-07-02T11:53:22Z" duration-ms="668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateNavigationFlow@d86a6f]" started-at="2021-07-02T11:53:22Z" name="setup" finished-at="2021-07-02T11:53:32Z" duration-ms="10677" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Validate_Women_Underwear_Cheeky()[pri:0, instance:TestScenario.ValidateNavigationFlow@d86a6f]" started-at="2021-07-02T11:53:32Z" name="Validate_Women_Underwear_Cheeky" finished-at="2021-07-02T11:53:52Z" duration-ms="19960" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Women category is Displayed :: Hoverable :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Cheeky Underwear in Women's category is displayed :: Clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Validate_Women_Underwear_Cheeky -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateNavigationFlow@d86a6f]" started-at="2021-07-02T11:53:52Z" name="teardown" finished-at="2021-07-02T11:53:53Z" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidateNavigationFlow -->
+    </test> <!-- NavigationFlow -->
+    <test started-at="2021-07-02T06:23:53Z" name="HomePageTests" finished-at="2021-07-02T06:31:22Z" duration-ms="449473">
+      <class name="TestScenario.ValidateHomePage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateHomePage@54c5a2ff]" started-at="2021-07-02T11:53:53Z" name="setup" finished-at="2021-07-02T11:54:40Z" duration-ms="47216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_verifyAccountdropdownOnHomePage()[pri:0, instance:TestScenario.ValidateHomePage@54c5a2ff]" started-at="2021-07-02T11:54:40Z" name="TC_verifyAccountdropdownOnHomePage" finished-at="2021-07-02T11:55:33Z" duration-ms="52679" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[sign in is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Help center option is Displayed ]]>
+            </line>
+            <line>
+              <![CDATA[Help option is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[My account option is Displayed ]]>
+            </line>
+            <line>
+              <![CDATA[My account is Displayed :: Clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAccountdropdownOnHomePage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateHomePage@54c5a2ff]" started-at="2021-07-02T11:55:33Z" name="teardown" finished-at="2021-07-02T11:55:34Z" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateHomePage@54c5a2ff]" started-at="2021-07-02T11:55:34Z" name="setup" finished-at="2021-07-02T11:56:02Z" duration-ms="28158" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_verifyAccountAndCartIconOnHomePage()[pri:0, instance:TestScenario.ValidateHomePage@54c5a2ff]" started-at="2021-07-02T11:56:02Z" name="TC_verifyAccountAndCartIconOnHomePage" finished-at="2021-07-02T11:56:56Z" duration-ms="54461" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Account Icon is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Cart Icon is Displayed :: Clickable :: Mini Cart is Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_verifyAccountAndCartIconOnHomePage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateHomePage@54c5a2ff]" started-at="2021-07-02T11:56:56Z" name="teardown" finished-at="2021-07-02T11:56:57Z" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateHomePage@54c5a2ff]" started-at="2021-07-02T11:56:57Z" name="setup" finished-at="2021-07-02T11:57:07Z" duration-ms="10628" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_ValidateSearchFunctionality()[pri:0, instance:TestScenario.ValidateHomePage@54c5a2ff]" started-at="2021-07-02T11:57:07Z" name="TC_ValidateSearchFunctionality" finished-at="2021-07-02T12:01:21Z" duration-ms="253999" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Verified Search auto suggestion functionality]]>
+            </line>
+            <line>
+              <![CDATA[Verified Product tile hover functionality on plp]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop ATC button is displayed on hover.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop ATC button text is validated :: Clickable.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop size overlay is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop size overlay is close button is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop size overlay heading is displayed ::Correct.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop size labels are displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop size labels are Clickable.]]>
+            </line>
+            <line>
+              <![CDATA[Product details are validated on Inline cart.]]>
+            </line>
+            <line>
+              <![CDATA[All filters are working correctly]]>
+            </line>
+            <line>
+              <![CDATA[All selected items are displayed in list and removing from list]]>
+            </line>
+            <line>
+              <![CDATA[Clear filters button works correctly]]>
+            </line>
+            <line>
+              <![CDATA[All Products are sorted as selected option]]>
+            </line>
+            <line>
+              <![CDATA[Search page is displayed :: Correct]]>
+            </line>
+            <line>
+              <![CDATA[Clear recent search link is Displayed :: Clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ValidateSearchFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateHomePage@54c5a2ff]" started-at="2021-07-02T12:01:21Z" name="teardown" finished-at="2021-07-02T12:01:22Z" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidateHomePage -->
+    </test> <!-- HomePageTests -->
+    <test started-at="2021-07-02T06:31:22Z" name="AccountLoginAndCreationTests" finished-at="2021-07-02T06:32:42Z" duration-ms="79943">
+      <class name="TestScenario.ValidateAccountLoginFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateAccountLoginFunctionality@2eae8e6e]" started-at="2021-07-02T12:01:22Z" name="setup" finished-at="2021-07-02T12:01:40Z" duration-ms="17684" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_VerifyCreateAccount()[pri:0, instance:TestScenario.ValidateAccountLoginFunctionality@2eae8e6e]" started-at="2021-07-02T12:01:40Z" name="TC_VerifyCreateAccount" finished-at="2021-07-02T12:02:08Z" duration-ms="27733" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Account Created Successfully :: User is brought to account page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_VerifyCreateAccount -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateAccountLoginFunctionality@2eae8e6e]" started-at="2021-07-02T12:02:08Z" name="teardown" finished-at="2021-07-02T12:02:09Z" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateAccountLoginFunctionality@2eae8e6e]" started-at="2021-07-02T12:02:09Z" name="setup" finished-at="2021-07-02T12:02:17Z" duration-ms="8066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_VerifyAccountLogin()[pri:0, instance:TestScenario.ValidateAccountLoginFunctionality@2eae8e6e]" started-at="2021-07-02T12:02:17Z" name="TC_VerifyAccountLogin" finished-at="2021-07-02T12:02:42Z" depends-on-methods="TestScenario.ValidateAccountLoginFunctionality.TC_VerifyCreateAccount" duration-ms="25077" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Account Login functionality verified successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_VerifyAccountLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateAccountLoginFunctionality@2eae8e6e]" started-at="2021-07-02T12:02:42Z" name="teardown" finished-at="2021-07-02T12:02:42Z" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidateAccountLoginFunctionality -->
+    </test> <!-- AccountLoginAndCreationTests -->
+    <test started-at="2021-07-02T06:32:42Z" name="FlyCartTests" finished-at="2021-07-02T06:35:06Z" duration-ms="143956">
+      <class name="TestScenario.ValidateFlyCartPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateFlyCartPage@2af004b]" started-at="2021-07-02T12:02:42Z" name="setup" finished-at="2021-07-02T12:03:23Z" duration-ms="40612" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_ValidateFlyCartOpenedWithQSandPDP()[pri:0, instance:TestScenario.ValidateFlyCartPage@2af004b]" started-at="2021-07-02T12:03:23Z" name="TC_ValidateFlyCartOpenedWithQSandPDP" finished-at="2021-07-02T12:04:17Z" duration-ms="54163" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Validated Flyout cart opens with Quickshop]]>
+            </line>
+            <line>
+              <![CDATA[https://tommyjohn.com/products/womens-second-skin-boxy-t-shirt-dress]]>
+            </line>
+            <line>
+              <![CDATA[Validated Flyout cart opens with ATC from pdp]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ValidateFlyCartOpenedWithQSandPDP -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScenario.ValidateFlyCartPage@2af004b]" started-at="2021-07-02T12:04:17Z" name="tearDown" finished-at="2021-07-02T12:04:18Z" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateFlyCartPage@2af004b]" started-at="2021-07-02T12:04:18Z" name="setup" finished-at="2021-07-02T12:04:27Z" duration-ms="9028" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_ValidateEmptyFlyCart()[pri:0, instance:TestScenario.ValidateFlyCartPage@2af004b]" started-at="2021-07-02T12:04:27Z" name="TC_ValidateEmptyFlyCart" finished-at="2021-07-02T12:05:06Z" duration-ms="38682" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cart Icon is Displayed :: Clickable :: Mini Cart is Opened]]>
+            </line>
+            <line>
+              <![CDATA[Continue Shopping button is Displayed :: Enabled :: Text is correct ]]>
+            </line>
+            <line>
+              <![CDATA[View Cart link is Displayed :: Enabled :: Text is correct ]]>
+            </line>
+            <line>
+              <![CDATA[Inline Cart Title is Displayed :: Text is correct ]]>
+            </line>
+            <line>
+              <![CDATA[Shipping message and meter absent]]>
+            </line>
+            <line>
+              <![CDATA['Inline cart is empty' text is Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ValidateEmptyFlyCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScenario.ValidateFlyCartPage@2af004b]" started-at="2021-07-02T12:05:06Z" name="tearDown" finished-at="2021-07-02T12:05:06Z" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScenario.ValidateFlyCartPage -->
+    </test> <!-- FlyCartTests -->
+    <test started-at="2021-07-02T06:35:06Z" name="ShoppingCartTests" finished-at="2021-07-02T06:37:21Z" duration-ms="134751">
+      <class name="TestScenario.ValidateShoppingCart">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateShoppingCart@1ca3b418]" started-at="2021-07-02T12:05:06Z" name="setup" finished-at="2021-07-02T12:05:15Z" duration-ms="9028" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateCheckoutIsFunctionalFromCart()[pri:0, instance:TestScenario.ValidateShoppingCart@1ca3b418]" started-at="2021-07-02T12:05:15Z" name="ValidateCheckoutIsFunctionalFromCart" finished-at="2021-07-02T12:07:20Z" duration-ms="124853" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+            </line>
+            <line>
+              <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateCheckoutIsFunctionalFromCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScenario.ValidateShoppingCart@1ca3b418]" started-at="2021-07-02T12:07:20Z" name="tearDown" finished-at="2021-07-02T12:07:21Z" duration-ms="868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScenario.ValidateShoppingCart -->
+    </test> <!-- ShoppingCartTests -->
+    <test started-at="2021-07-02T06:37:21Z" name="Checkout Tests" finished-at="2021-07-02T06:50:12Z" duration-ms="771273">
+      <class name="TestScenario.ValidateCheckoutPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:07:21Z" name="setup" finished-at="2021-07-02T12:07:32Z" duration-ms="10782" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateGuestCheckoutFlow()[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:07:32Z" name="ValidateGuestCheckoutFlow" finished-at="2021-07-02T12:09:27Z" duration-ms="115035" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+            </line>
+            <line>
+              <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Email for Guest User entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Shipping Address Details entered]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to select shipping method]]>
+            </line>
+            <line>
+              <![CDATA[Selected shipping method and user is navigated to payment page]]>
+            </line>
+            <line>
+              <![CDATA[Complete Order button is enabled]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateGuestCheckoutFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:09:27Z" name="tearDown" finished-at="2021-07-02T12:09:28Z" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:09:28Z" name="setup" finished-at="2021-07-02T12:09:51Z" duration-ms="23633" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateInformationPageOfCheckout()[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:09:51Z" name="ValidateInformationPageOfCheckout" finished-at="2021-07-02T12:11:45Z" duration-ms="113252" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+            </line>
+            <line>
+              <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Checkout page displayed]]>
+            </line>
+            <line>
+              <![CDATA[Validated Breadcrumbs on checkout pages]]>
+            </line>
+            <line>
+              <![CDATA[Validated Promo Code application functionality]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateInformationPageOfCheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:11:45Z" name="tearDown" finished-at="2021-07-02T12:11:45Z" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:11:45Z" name="setup" finished-at="2021-07-02T12:12:47Z" duration-ms="61646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidatePaymentPageOfCheckout()[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:12:47Z" name="ValidatePaymentPageOfCheckout" finished-at="2021-07-02T12:15:28Z" duration-ms="160598" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+            </line>
+            <line>
+              <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Checkout page displayed]]>
+            </line>
+            <line>
+              <![CDATA[Shipping Address Details entered]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to select shipping method]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to payment page]]>
+            </line>
+            <line>
+              <![CDATA[Validated Breadcrumbs on checkout pages]]>
+            </line>
+            <line>
+              <![CDATA[Validated Promo Code application functionality]]>
+            </line>
+            <line>
+              <![CDATA[How heard values are displayed:: Clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidatePaymentPageOfCheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:15:28Z" name="tearDown" finished-at="2021-07-02T12:15:28Z" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:15:28Z" name="setup" finished-at="2021-07-02T12:15:56Z" duration-ms="27227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateRegisteredUserCheckoutFlow()[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:15:56Z" name="ValidateRegisteredUserCheckoutFlow" finished-at="2021-07-02T12:17:53Z" duration-ms="117264" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+            </line>
+            <line>
+              <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Checkout page displayed]]>
+            </line>
+            <line>
+              <![CDATA[User naviagted to login page]]>
+            </line>
+            <line>
+              <![CDATA[User logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Shipping Address Details entered]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to select shipping method]]>
+            </line>
+            <line>
+              <![CDATA[Selected shipping method and user is navigated to payment page]]>
+            </line>
+            <line>
+              <![CDATA[Complete Order button is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateRegisteredUserCheckoutFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:17:53Z" name="tearDown" finished-at="2021-07-02T12:17:54Z" duration-ms="869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:17:54Z" name="setup" finished-at="2021-07-02T12:18:06Z" duration-ms="12028" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateShippingPageOfCheckout()[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:18:06Z" name="ValidateShippingPageOfCheckout" finished-at="2021-07-02T12:20:12Z" duration-ms="125675" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+            </line>
+            <line>
+              <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Checkout page displayed]]>
+            </line>
+            <line>
+              <![CDATA[Shipping Address Details entered]]>
+            </line>
+            <line>
+              <![CDATA[User is navigated to select shipping method]]>
+            </line>
+            <line>
+              <![CDATA[Validated Breadcrumbs on checkout pages]]>
+            </line>
+            <line>
+              <![CDATA[Validated Promo Code application functionality]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateShippingPageOfCheckout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScenario.ValidateCheckoutPage@53fb3dab]" started-at="2021-07-02T12:20:12Z" name="tearDown" finished-at="2021-07-02T12:20:12Z" duration-ms="839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScenario.ValidateCheckoutPage -->
+    </test> <!-- Checkout Tests -->
+    <test started-at="2021-07-02T06:50:12Z" name="QuickShop" finished-at="2021-07-02T06:51:09Z" duration-ms="56208">
+      <class name="TestScenario.ValidateQuickShop">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateQuickShop@17f9d882]" started-at="2021-07-02T12:20:12Z" name="setup" finished-at="2021-07-02T12:20:35Z" duration-ms="22372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_ValidateQuickShopOnCollection()[pri:0, instance:TestScenario.ValidateQuickShop@17f9d882]" started-at="2021-07-02T12:20:35Z" name="TC_ValidateQuickShopOnCollection" finished-at="2021-07-02T12:21:08Z" duration-ms="32980" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Quick shop ATC button is displayed on hover.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop ATC button text is validated :: Clickable.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop size overlay is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop size overlay is close button is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop size overlay heading is displayed ::Correct.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop size labels are displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Quick shop size labels are Clickable.]]>
+            </line>
+            <line>
+              <![CDATA[Product details are validated on Inline cart.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ValidateQuickShopOnCollection -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateQuickShop@17f9d882]" started-at="2021-07-02T12:21:08Z" name="teardown" finished-at="2021-07-02T12:21:09Z" duration-ms="854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidateQuickShop -->
+    </test> <!-- QuickShop -->
+    <test started-at="2021-07-02T06:51:09Z" name="SingleCollectionTests" finished-at="2021-07-02T06:55:45Z" duration-ms="276038">
+      <class name="TestScenario.ValidateSingleCollectionPages">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:21:09Z" name="setup" finished-at="2021-07-02T12:21:32Z" duration-ms="23469" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_ValidateProductImageOnSecondSkinInMenCategory()[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:21:32Z" name="TC_ValidateProductImageOnSecondSkinInMenCategory" finished-at="2021-07-02T12:22:20Z" duration-ms="48282" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/pack-second-skin-trunk-3-pack/?color=dress-blues-turbulence-grey-black]]>
+            </line>
+            <line>
+              <![CDATA[Product details page is Correct :: Product title is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Breadcrumb is displayed on PDP.]]>
+            </line>
+            <line>
+              <![CDATA[Vertical images are displayed on PDP.]]>
+            </line>
+            <line>
+              <![CDATA[Size guide is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Review Stars Are Displayed :: Clickable :: Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Rating and Reviews Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Colors are present and changing correct]]>
+            </line>
+            <line>
+              <![CDATA[Product image on collection page is Displayed :: Clickable and validated successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ValidateProductImageOnSecondSkinInMenCategory -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:22:20Z" name="teardown" finished-at="2021-07-02T12:22:21Z" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:22:21Z" name="setup" finished-at="2021-07-02T12:22:33Z" duration-ms="12317" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_ValidateProductNameOnCoolCottonInMenCategory()[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:22:33Z" name="TC_ValidateProductNameOnCoolCottonInMenCategory" finished-at="2021-07-02T12:23:14Z" duration-ms="40774" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/cool-cotton-mid-length-boxer-brief?color=jungle-colorblock]]>
+            </line>
+            <line>
+              <![CDATA[Product details page is Correct :: Product title is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Breadcrumb is displayed on PDP.]]>
+            </line>
+            <line>
+              <![CDATA[Vertical images are displayed on PDP.]]>
+            </line>
+            <line>
+              <![CDATA[Size guide is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Review Stars Are Displayed :: Clickable :: Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Rating and Reviews Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Colors are present and changing correct]]>
+            </line>
+            <line>
+              <![CDATA[Product head line text on collection page is Displayed :: Clickable and validated successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ValidateProductNameOnCoolCottonInMenCategory -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:23:14Z" name="teardown" finished-at="2021-07-02T12:23:15Z" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:23:15Z" name="setup" finished-at="2021-07-02T12:23:29Z" duration-ms="14495" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_ValidateFiltersAndSortingOnAllWomensPacksInPacksCategory()[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:23:29Z" name="TC_ValidateFiltersAndSortingOnAllWomensPacksInPacksCategory" finished-at="2021-07-02T12:25:11Z" duration-ms="101521" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[All filters are working correctly]]>
+            </line>
+            <line>
+              <![CDATA[All selected items are displayed in list and removing from list]]>
+            </line>
+            <line>
+              <![CDATA[Clear filters button works correctly]]>
+            </line>
+            <line>
+              <![CDATA[All Products are sorted as selected option]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ValidateFiltersAndSortingOnAllWomensPacksInPacksCategory -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:25:11Z" name="teardown" finished-at="2021-07-02T12:25:12Z" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:25:12Z" name="setup" finished-at="2021-07-02T12:25:22Z" duration-ms="10460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_ValidateColorSwatchOnSecondSkin()[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:25:22Z" name="TC_ValidateColorSwatchOnSecondSkin" finished-at="2021-07-02T12:25:44Z" duration-ms="21930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ValidateColorSwatchOnSecondSkin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateSingleCollectionPages@5e2c3d18]" started-at="2021-07-02T12:25:44Z" name="teardown" finished-at="2021-07-02T12:25:45Z" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidateSingleCollectionPages -->
+    </test> <!-- SingleCollectionTests -->
+    <test started-at="2021-07-02T06:55:45Z" name="MegaCollectionTests" finished-at="2021-07-02T06:57:41Z" duration-ms="116786">
+      <class name="TestScenario.ValidateMegaCollectionPages">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateMegaCollectionPages@6e9a5ed8]" started-at="2021-07-02T12:25:45Z" name="setup" finished-at="2021-07-02T12:26:00Z" duration-ms="15295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_ValidateProductImageOnAllPantiesInWomenCategory()[pri:0, instance:TestScenario.ValidateMegaCollectionPages@6e9a5ed8]" started-at="2021-07-02T12:26:00Z" name="TC_ValidateProductImageOnAllPantiesInWomenCategory" finished-at="2021-07-02T12:27:12Z" duration-ms="71894" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Verified Product tile hover functionality on plp]]>
+            </line>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle]]>
+            </line>
+            <line>
+              <![CDATA[Product details page is Correct :: Product title is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Breadcrumb is displayed on PDP.]]>
+            </line>
+            <line>
+              <![CDATA[Vertical images are displayed on PDP.]]>
+            </line>
+            <line>
+              <![CDATA[Size guide is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Review Stars Are Displayed :: Clickable :: Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Rating and Reviews Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Colors are present and changing correct]]>
+            </line>
+            <line>
+              <![CDATA[Product image on collection page is Displayed :: Clickable and validated successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_ValidateProductImageOnAllPantiesInWomenCategory -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateMegaCollectionPages@6e9a5ed8]" started-at="2021-07-02T12:27:12Z" name="teardown" finished-at="2021-07-02T12:27:13Z" duration-ms="715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateMegaCollectionPages@6e9a5ed8]" started-at="2021-07-02T12:27:13Z" name="setup" finished-at="2021-07-02T12:27:22Z" duration-ms="9750" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_ValidateColorSwatchOnAllUndershirts()[pri:0, instance:TestScenario.ValidateMegaCollectionPages@6e9a5ed8]" started-at="2021-07-02T12:27:22Z" name="TC_ValidateColorSwatchOnAllUndershirts" finished-at="2021-07-02T12:27:41Z" duration-ms="18482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_ValidateColorSwatchOnAllUndershirts -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateMegaCollectionPages@6e9a5ed8]" started-at="2021-07-02T12:27:41Z" name="teardown" finished-at="2021-07-02T12:27:41Z" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidateMegaCollectionPages -->
+    </test> <!-- MegaCollectionTests -->
+    <test started-at="2021-07-02T06:57:41Z" name="ProductPageTests" finished-at="2021-07-02T06:59:23Z" duration-ms="101796">
+      <class name="TestScenario.ValidateProductDetailsPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateProductDetailsPage@76494737]" started-at="2021-07-02T12:27:41Z" name="setup" finished-at="2021-07-02T12:28:00Z" duration-ms="18671" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_verifyProductDetailsPage()[pri:0, instance:TestScenario.ValidateProductDetailsPage@76494737]" started-at="2021-07-02T12:28:00Z" name="TC_verifyProductDetailsPage" finished-at="2021-07-02T12:28:42Z" duration-ms="41518" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle]]>
+            </line>
+            <line>
+              <![CDATA[Product details page is Correct :: Product title is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Breadcrumb is displayed on PDP.]]>
+            </line>
+            <line>
+              <![CDATA[Vertical images are displayed on PDP.]]>
+            </line>
+            <line>
+              <![CDATA[Size guide is Displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Review Stars Are Displayed :: Clickable :: Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Rating and Reviews Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Colors are present and changing correct]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_verifyProductDetailsPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateProductDetailsPage@76494737]" started-at="2021-07-02T12:28:42Z" name="teardown" finished-at="2021-07-02T12:28:42Z" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateProductDetailsPage@76494737]" started-at="2021-07-02T12:28:42Z" name="setup" finished-at="2021-07-02T12:28:57Z" duration-ms="14969" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_VerifyJoinTheWaitlistFunctionality()[pri:0, instance:TestScenario.ValidateProductDetailsPage@76494737]" started-at="2021-07-02T12:28:57Z" name="TC_VerifyJoinTheWaitlistFunctionality" finished-at="2021-07-02T12:29:23Z" duration-ms="25248" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_VerifyJoinTheWaitlistFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateProductDetailsPage@76494737]" started-at="2021-07-02T12:29:23Z" name="teardown" finished-at="2021-07-02T12:29:23Z" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidateProductDetailsPage -->
+    </test> <!-- ProductPageTests -->
+    <test started-at="2021-07-02T06:59:23Z" name="AddToCartTests" finished-at="2021-07-02T07:00:23Z" duration-ms="59962">
+      <class name="TestScenario.AddToCartTests">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.AddToCartTests@792b749c]" started-at="2021-07-02T12:29:23Z" name="setup" finished-at="2021-07-02T12:29:38Z" duration-ms="14935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AddToCartTestCase()[pri:0, instance:TestScenario.AddToCartTests@792b749c]" started-at="2021-07-02T12:29:38Z" name="AddToCartTestCase" finished-at="2021-07-02T12:30:22Z" duration-ms="44301" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+            </line>
+            <line>
+              <![CDATA[ADD TO CART button is Displayed :: Clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddToCartTestCase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.AddToCartTests@792b749c]" started-at="2021-07-02T12:30:22Z" name="teardown" finished-at="2021-07-02T12:30:23Z" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.AddToCartTests -->
+    </test> <!-- AddToCartTests -->
+    <test started-at="2021-07-02T07:00:23Z" name="ReorderPagetests" finished-at="2021-07-02T07:01:33Z" duration-ms="69729">
+      <class name="TestScenario.ValidateReOrderPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateReOrderPage@548a24a]" started-at="2021-07-02T12:30:23Z" name="setup" finished-at="2021-07-02T12:30:43Z" duration-ms="19569" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateUserIsAbleToReOrderItemFromReOrderPage()[pri:0, instance:TestScenario.ValidateReOrderPage@548a24a]" started-at="2021-07-02T12:30:43Z" name="ValidateUserIsAbleToReOrderItemFromReOrderPage" finished-at="2021-07-02T12:31:32Z" duration-ms="49354" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Header Nav Reorder link is Displayed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateUserIsAbleToReOrderItemFromReOrderPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScenario.ValidateReOrderPage@548a24a]" started-at="2021-07-02T12:31:32Z" name="tearDown" finished-at="2021-07-02T12:31:33Z" duration-ms="806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScenario.ValidateReOrderPage -->
+    </test> <!-- ReorderPagetests -->
+    <test started-at="2021-07-02T07:01:33Z" name="SizeGuideTests" finished-at="2021-07-02T07:03:19Z" duration-ms="106360">
+      <class name="TestScenario.ValidateSizeGuide">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateSizeGuide@65987993]" started-at="2021-07-02T12:31:33Z" name="setup" finished-at="2021-07-02T12:31:46Z" duration-ms="13378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_verifyMenUnderwearSizeGuidePage()[pri:0, instance:TestScenario.ValidateSizeGuide@65987993]" started-at="2021-07-02T12:31:46Z" name="TC_verifyMenUnderwearSizeGuidePage" finished-at="2021-07-02T12:32:20Z" duration-ms="34115" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/second-skin-boxer-brief/?color=hint-of-mint-tri-color-stripe]]>
+            </line>
+            <line>
+              <![CDATA[Men's Underwear Size guide is Displayed :: Clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_verifyMenUnderwearSizeGuidePage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateSizeGuide@65987993]" started-at="2021-07-02T12:32:20Z" name="teardown" finished-at="2021-07-02T12:32:21Z" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidateSizeGuide@65987993]" started-at="2021-07-02T12:32:21Z" name="setup" finished-at="2021-07-02T12:32:41Z" duration-ms="19723" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_verifyWomenUnderwearSizeGuidePage()[pri:0, instance:TestScenario.ValidateSizeGuide@65987993]" started-at="2021-07-02T12:32:41Z" name="TC_verifyWomenUnderwearSizeGuidePage" finished-at="2021-07-02T12:33:19Z" duration-ms="37769" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://tommyjohn.com/collections/womens-second-skin-brief/?color=thistle]]>
+            </line>
+            <line>
+              <![CDATA[Women's Underwear size guide is Displayed :: Clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_verifyWomenUnderwearSizeGuidePage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidateSizeGuide@65987993]" started-at="2021-07-02T12:33:19Z" name="teardown" finished-at="2021-07-02T12:33:19Z" duration-ms="707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidateSizeGuide -->
+    </test> <!-- SizeGuideTests -->
+    <test started-at="2021-07-02T07:03:19Z" name="PhysicalGiftCard" finished-at="2021-07-02T07:03:58Z" duration-ms="39103">
+      <class name="TestScenario.ValidatePhysicalGiftCard">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestScenario.ValidatePhysicalGiftCard@5965d37]" started-at="2021-07-02T12:33:19Z" name="setup" finished-at="2021-07-02T12:33:41Z" duration-ms="21592" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidatePhysicalGiftCardFlow()[pri:0, instance:TestScenario.ValidatePhysicalGiftCard@5965d37]" started-at="2021-07-02T12:33:41Z" name="ValidatePhysicalGiftCardFlow" finished-at="2021-07-02T12:33:58Z" duration-ms="16843" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Gift Cart amount radio buttons are displayed :: Clickable]]>
+            </line>
+            <line>
+              <![CDATA[Gift card successfully added to the cart.]]>
+            </line>
+            <line>
+              <![CDATA[Physical Gift Card title on inline cart is Displayed :: Correct]]>
+            </line>
+            <line>
+              <![CDATA[Physical Gift Card color on inline cart is Displayed :: Correct]]>
+            </line>
+            <line>
+              <![CDATA[Physical Gift Card price on inline cart is Displayed :: Correct]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidatePhysicalGiftCardFlow -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenario.ValidatePhysicalGiftCard@5965d37]" started-at="2021-07-02T12:33:58Z" name="teardown" finished-at="2021-07-02T12:33:58Z" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenario.ValidatePhysicalGiftCard -->
+    </test> <!-- PhysicalGiftCard -->
+  </suite> <!-- Suite -->
+</testng-results>
