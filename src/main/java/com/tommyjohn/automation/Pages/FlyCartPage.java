@@ -12,7 +12,6 @@ public class FlyCartPage extends FlyCartComponents {
 	this.driver=driver;
 		// TODO Auto-generated constructor stub
 	}
-
 	public void verifyAllFields() throws Exception {
 		new FlyCartComponents(driver).verifyAllTextsAndFieldsOnEmptyFlyCart();
 	}

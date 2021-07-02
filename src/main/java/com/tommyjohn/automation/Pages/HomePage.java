@@ -12,7 +12,6 @@ public class HomePage extends HomePageComponents {
 		super(driver);
 		// TODO Auto-generated constructor stub
 	}
-
 	public void logoandcategoriespresence() throws Exception
 	{
 		ValidateLogoAndCategoriesPresence();

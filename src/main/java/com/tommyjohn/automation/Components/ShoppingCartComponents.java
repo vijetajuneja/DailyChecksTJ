@@ -31,7 +31,6 @@ public class ShoppingCartComponents extends ShoppingCartLocators{
 	public ShoppingCartComponents(WebDriver driver) {
 		this.driver = driver;
 	}
-
 	public void EmptyCart() throws Exception
 	{
 		SoftAssert softAssert = new SoftAssert();

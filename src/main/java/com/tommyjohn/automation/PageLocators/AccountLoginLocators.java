@@ -18,7 +18,6 @@ public class AccountLoginLocators {
 	
 	
 	
-	
 	//on create account page
 	public static By CREATEACCOUNT_TEXT = By.cssSelector(".account-logged-out-row.two-tiles.create-account.on-load > h2");
 	public static By ALREADYHAVEANACCOUNT_LINK = By.cssSelector(".account-registration > form > a");

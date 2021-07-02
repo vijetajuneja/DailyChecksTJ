@@ -12,7 +12,6 @@ public class RatingAndReviewPage extends RatingReviewsComponents {
 		super(driver);
 		this.driver = driver;
 	}
-
 	public void verifyRatingAndReviews() throws Exception {
         new RatingReviewsComponents(driver).navigateToAllUnderwearInMenCategory();
         new RatingReviewsComponents(driver).navigateToProductDetailsPage();

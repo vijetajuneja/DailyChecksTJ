@@ -12,7 +12,6 @@ import com.tommyjohn.automation.utils.CustomUtilities;
 public class ValidateReOrderPage {
 	WebDriver driver;
 
-
 	@BeforeMethod(alwaysRun = true)
 	@Parameters("browser")
 	public void setup(String browser) {

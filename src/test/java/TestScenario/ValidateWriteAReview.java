@@ -24,7 +24,6 @@ public class ValidateWriteAReview {
 		}
 	}
 
-
 	@Test
 	public void TC_verifyWriteAReview() throws Exception {	
 		new WriteAReviewPage(driver).verifyWriteReviewsFunctionalityOnPDP();

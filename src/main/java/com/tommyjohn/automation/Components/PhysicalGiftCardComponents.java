@@ -40,7 +40,6 @@ public class PhysicalGiftCardComponents extends PhysicalGiftCardPageLocators
 	String Delivery_date;
 	String newDelivery_Date;
 	String invalidemail = "test";
-
 	String text;
 	List<WebElement> allElements;
 

@@ -9,7 +9,6 @@ public class GiftCard_PageLocators {
 	public static By GIFT_CARD_PRICE = By.cssSelector(".product-info__inner-top >div >div:nth-child(2) >span >span:nth-child(2)");
 	public static By COLOR_NAME = By.cssSelector(".product-info__option >div >span");
 	public static By GIFT_CARD_AMOUNT_TEXT = By.cssSelector("div.radio-options-container>div>div.optionName >span");
-
 	//Price selector
 	public static By PRICE_DROPDOWN = By.cssSelector(".select.select--options.js-option-select.option-dropdown__option.desktop-view >a");
 	public static By PRICE_OPTIONS = By.cssSelector("div.radio-options-container>div>label");

@@ -12,7 +12,7 @@ public class PhysicalGiftCardPage extends PhysicalGiftCardComponents
 		super(driver);
 		this.driver=driver;
 	}
-	
+
 	public void PhysicalgiftCardPageCheck() throws Exception
 	{
 		new PhysicalGiftCardComponents(driver).GoToOnPhysicalGiftCardPage();

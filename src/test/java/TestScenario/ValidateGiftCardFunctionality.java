@@ -12,7 +12,6 @@ import com.tommyjohn.automation.utils.CustomUtilities;
 public class ValidateGiftCardFunctionality{
 
 	WebDriver driver;
-
 	@BeforeMethod(alwaysRun = true)
 	@Parameters("browser")
 	public void setup(String browser) {

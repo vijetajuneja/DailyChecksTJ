@@ -1,7 +1,6 @@
 package com.tommyjohn.automation.PageLocators;
 
 import org.openqa.selenium.By;
-
 public class FlyCartPageLocator {
 	public static By INLINE_CART_SECTION = By.cssSelector(".section.inline-cart");
 	public static By INLINE_CART_CLOSE_BUTTON = By.cssSelector("button.inline-cart__close-btn");

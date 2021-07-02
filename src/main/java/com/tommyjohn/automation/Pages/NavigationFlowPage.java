@@ -13,7 +13,7 @@ public class NavigationFlowPage extends NavigationFlowComponents
 		super(driver);
 		this.driver= driver;
 	}
-	
+
 	public void NavigateToAllNewArrivalInMenCategory() throws Exception
 	{
 		new NavigationFlowComponents(driver).NavigatetoAllNewArrivalsInMenCategory();

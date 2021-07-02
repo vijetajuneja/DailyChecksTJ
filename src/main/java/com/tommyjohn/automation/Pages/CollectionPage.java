@@ -14,7 +14,6 @@ public class CollectionPage extends CollectionPageComponent{
 	}
 
 	//Mega collections
-
 	public void validateproductimageonAllpanties() throws Exception
 	{
 		new HomePageComponents(driver).navigateToAllPantiesInWomenCategory();

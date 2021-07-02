@@ -23,7 +23,6 @@ public class NavigationFlowComponents extends NavigationFlowPageLocators
 	{
 		this.driver= driver;
 	}
-
 	public void NavigatetoAllNewArrivalsInMenCategory() throws Exception
 	{
 		ValidateMenCategory();

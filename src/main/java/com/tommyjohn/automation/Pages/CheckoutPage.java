@@ -12,7 +12,6 @@ public class CheckoutPage extends CheckoutPageComponents {
 		super(driver);
 		this.driver = driver;
 	}
-
 	public void ValidateExpressCheckoutOptions() throws Exception
 	{
 		new CheckoutPageComponents(driver).expresscheckout();

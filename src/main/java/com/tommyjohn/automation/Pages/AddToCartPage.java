@@ -10,7 +10,6 @@ public class AddToCartPage extends AddToCartComponents{
 	public AddToCartPage(WebDriver driver) {
 		super(driver);
 		this.driver=driver;
-		// TODO Auto-generated constructor stub
 	}
 
 	public void ATC() throws Exception {

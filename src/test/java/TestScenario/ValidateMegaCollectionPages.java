@@ -23,7 +23,6 @@ public class ValidateMegaCollectionPages {
 		}
 	}
 
-
 	@Test
 	public void TC_ValidateProductImageOnAllPantiesInWomenCategory() throws
 	Exception

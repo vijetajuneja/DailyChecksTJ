@@ -16,8 +16,7 @@ public class CheckoutPageLocators {
 	public static By BREADCRUMB_LINK_INFORMATION = By.cssSelector("ol.breadcrumb>li:nth-child(2)");
 	public static By BREADCRUMB_LINK_SHIPPING = By.cssSelector("ol.breadcrumb>li:nth-child(3)");
 	public static By BREADCRUMB_LINK_PAYMENT = By.cssSelector("ol.breadcrumb>li:nth-child(4)");
-	
-	
+		
 	//Contact info 
 	public static By CONTACTINFO_TEXT = By.cssSelector("h2#main-header");
 	public static By ALREADYHAVEANACCOUNT_TEXT = By.cssSelector(".layout-flex__item > span");

@@ -7,7 +7,6 @@ import org.testng.ITestResult;
 import com.tommyjohn.automation.utils.CustomUtilities;
 public class ListenerClass implements ITestListener {
 WebDriver driver;
-
 	
 	
 	@Override

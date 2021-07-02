@@ -11,7 +11,6 @@ import com.tommyjohn.automation.utils.CustomUtilities;
 public class ValidateRatingReviews {
 	WebDriver driver;
 
-
 	@BeforeMethod(alwaysRun = true)
 	@Parameters("browser")
 	public void setup(String browser) {

@@ -29,7 +29,6 @@ WebDriver driver;
 	}
 
 	
-
 	@Test
 	public void AddToCartTestCase() throws Exception 
 	{

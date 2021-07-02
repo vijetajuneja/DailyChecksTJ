@@ -31,7 +31,6 @@ public class ReOrderPageComponents extends ReOrderPageLocators{
 
 		this.driver = driver;
 	}
-
 	public void ReorderPagevalidation() throws Exception
 	{
 

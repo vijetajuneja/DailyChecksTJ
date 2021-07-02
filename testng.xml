@@ -142,7 +142,6 @@
 					<include
 						name="TC_ValidateProductImageOnAllPantiesInWomenCategory" />
 					<include name="TC_ValidateColorSwatchOnAllUndershirts" />
-
 				</methods>
 
 			</class>

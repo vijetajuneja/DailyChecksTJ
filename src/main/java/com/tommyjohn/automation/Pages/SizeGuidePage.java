@@ -12,7 +12,6 @@ public class SizeGuidePage extends SizeGuideComponents
 		super(driver);
 		this.driver = driver;
 	}
-
 	public void verifyMenUnderwearSizeGuidePage() throws Exception {
 
 		new SizeGuideComponents(driver).validateMenUnderwearSizeGuidePage();

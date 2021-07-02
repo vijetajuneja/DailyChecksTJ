@@ -19,8 +19,6 @@ import com.tommyjohn.automation.PageLocators.SizeGuideLocators;
 import com.tommyjohn.automation.utils.CustomUtilities;
 
 
-
-
 public class SizeGuideComponents extends SizeGuideLocators
 {
 	public WebDriver driver;

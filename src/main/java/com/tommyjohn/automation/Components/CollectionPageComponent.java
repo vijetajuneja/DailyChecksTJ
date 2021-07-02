@@ -47,7 +47,6 @@ public class CollectionPageComponent extends CollectionPageLocator {
 	SoftAssert softAssert = new SoftAssert();
 	String text;
 	String Selected_size;
-
 	public String navigateToProductDetailsPage() throws Exception {
 		String text = null;
 		JavascriptExecutor js = (JavascriptExecutor) driver;

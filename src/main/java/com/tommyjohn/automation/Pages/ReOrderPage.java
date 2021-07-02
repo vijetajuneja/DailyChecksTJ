@@ -13,7 +13,6 @@ public class ReOrderPage extends ReOrderPageComponents{
 		super(driver);
 		this.driver = driver;
 	}
-
 	public void ValidateReOrderPage() throws Exception
 	{
 		new ReOrderPageComponents(driver).ReorderPagevalidation();

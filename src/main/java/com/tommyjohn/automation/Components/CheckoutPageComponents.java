@@ -24,7 +24,6 @@ import com.tommyjohn.automation.utils.CustomUtilities;
 
 
 public class CheckoutPageComponents extends CheckoutPageLocators {
-
 	public WebDriver driver;
 	public JavascriptExecutor jse;
 

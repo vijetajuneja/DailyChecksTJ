@@ -12,7 +12,6 @@ public class WriteAReviewPage extends WriteAReviewComponents {
 		super(driver);
 		this.driver = driver;
 	}
-
 	public void verifyWriteReviewsFunctionalityOnPDP() throws Exception 
 	{
 		new RatingReviewsComponents(driver).navigateToAllPantiesnInWomenCategory();

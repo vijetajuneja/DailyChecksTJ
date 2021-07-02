@@ -24,10 +24,6 @@ public class AccountLoginComponents extends AccountLoginLocators{
 	String invalidpassword = "123";
 	WebElement element;
 	public Actions actions;
-
-
-
-
 	public AccountLoginComponents(WebDriver driver) {
 		this.driver = driver;
 	}

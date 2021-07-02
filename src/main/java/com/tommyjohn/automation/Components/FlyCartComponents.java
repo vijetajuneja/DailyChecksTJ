@@ -36,7 +36,6 @@ public class FlyCartComponents extends FlyCartPageLocator{
 
 	}
 
-
 	public void verifyAllTextsAndFieldsOnEmptyFlyCart() throws Exception {
 		SoftAssert softAssert = new SoftAssert();
 		String text = null;

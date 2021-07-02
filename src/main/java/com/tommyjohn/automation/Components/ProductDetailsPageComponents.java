@@ -38,7 +38,6 @@ public class ProductDetailsPageComponents extends ProductDetailsPageLocators {
 	public  static String productprice;
 	public static String productquant;
 	public String price;
-
 	public static String Sizename1;
 	public static String Sizename2;
 	public static String BundleSizename1;

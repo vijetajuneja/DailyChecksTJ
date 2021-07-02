@@ -10,7 +10,6 @@ import com.tommyjohn.automation.utils.CustomUtilities;
 
 
 public class ValidatePhysicalGiftCard {
-
 	WebDriver driver;
 	@BeforeMethod(alwaysRun = true)
 	@Parameters("browser")

@@ -29,7 +29,6 @@ public class CustomUtilities {
 	public static Properties properties;
 	public static final String propertiesFilePath = "src/main/resources/configuration.properties";
 
-
 	// @BeforeSuite
 	@SuppressWarnings({ })
 	public WebDriver launchtj(String browser) throws Exception {

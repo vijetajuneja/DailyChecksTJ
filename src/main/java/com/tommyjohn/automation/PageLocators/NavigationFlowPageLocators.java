@@ -9,7 +9,6 @@ public class NavigationFlowPageLocators extends HomePageLocators
 	public static By ALL_MENS_SALE = SHOPALL_LINK;
 	public static By MEN_SOCKS_ALLSOCKS = SHOPALL_LINK;
 	public static By WOMEN_UNDERWEAR_ALLUNDERWEAR = SHOPALL_LINK;
-		
 	public static By MEN_UNDERWEAR_BOXERBRIEF = SECOND_lEVEL2_CATEGORY;
 	public static By MEN_CLOTHING_TEESandPOLOS = FIRST_lEVEL2_CATEGORY;
 	public static By WOMEN_BRAS_SCOOPBRALETTE = SECOND_lEVEL2_CATEGORY;

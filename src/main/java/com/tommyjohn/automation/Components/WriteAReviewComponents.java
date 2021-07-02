@@ -26,7 +26,6 @@ public class WriteAReviewComponents extends ProductDetailsPageLocators
 		this.driver = driver;
 	}
 	
-
 	public void verifyWriteReview() throws Exception
 	{
 		jse = (JavascriptExecutor)driver;

@@ -12,7 +12,7 @@ public class ShoppingCartPage extends ShoppingCartComponents{
 		super(driver);
 		this.driver = driver;
 	}
-	
+
 	public void ValidateEmptyCart() throws Exception
 	{
 		new ShoppingCartComponents(driver).EmptyCart();

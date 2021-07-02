@@ -14,8 +14,6 @@ import com.tommyjohn.automation.utils.CustomUtilities;
 public class ValidateSizeGuide
 {
 	WebDriver driver;
-
-
 	@BeforeMethod(alwaysRun = true)
 	@Parameters("browser")
 	public void setup(String browser) {

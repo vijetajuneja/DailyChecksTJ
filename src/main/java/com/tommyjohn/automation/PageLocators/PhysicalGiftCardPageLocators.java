@@ -20,6 +20,5 @@ public class PhysicalGiftCardPageLocators
 	public static By SHIPING_AND_RETURNS = By.cssSelector("div.product-accordion.container> ul > li:nth-child(2) > div:nth-child(1) > a");
 	
 	
-	
 
 }

@@ -16,7 +16,6 @@ public class ValidateProductDetailsPage {
 
 	WebDriver driver;
 
-
 	@BeforeMethod(alwaysRun = true)
 	@Parameters("browser")
 	public void setup(String browser) {

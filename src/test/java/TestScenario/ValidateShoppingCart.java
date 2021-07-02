@@ -13,7 +13,6 @@ public class ValidateShoppingCart {
 	
 	WebDriver driver;
 
-
 	@BeforeMethod(alwaysRun = true)
 	@Parameters("browser")
 	public void setup(String browser) {

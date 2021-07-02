@@ -5,7 +5,6 @@ import org.openqa.selenium.By;
 public class SizeGuideLocators 
 {
 	public static By FIRST_PRODUCT_REVIEW_STARS = By.cssSelector("div.mega-collection-grid__row:nth-child(3) > div:nth-child(3) > a > div");
-
 	public static By PRODUCT_TITLE = By.cssSelector(" .product-info__title-wrap > h1.product-info__title");
 	public static By PRODUCT_PRICE = By.cssSelector("div.multi-pdp-title-wrap.desktop-view > div.product-info__price-wrap >span > span:nth-child(2)");
 	public static By RATING_STARS = By.cssSelector("div.multi-pdp-title-wrap.desktop-view > div.product-info__price-wrap > div.yotpo-star-wrapper > div > div > span:nth-child(2)");

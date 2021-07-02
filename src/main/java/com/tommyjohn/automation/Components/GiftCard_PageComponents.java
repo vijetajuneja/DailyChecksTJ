@@ -39,7 +39,6 @@ public class GiftCard_PageComponents extends GiftCard_PageLocators {
 	String Delivery_date;
 	String newDelivery_Date;
 	String invalidemail = "test";
-
 	String text;
 	List<WebElement> allElements;
 

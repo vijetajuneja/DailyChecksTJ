@@ -9,7 +9,6 @@ public class AccountLoginPage extends AccountLoginComponents {
 	public AccountLoginPage(WebDriver driver) {
 		super(driver);
 		this.driver=driver;
-		// TODO Auto-generated constructor stub
 	}
 
 	public String createCustomerAccount() throws Exception

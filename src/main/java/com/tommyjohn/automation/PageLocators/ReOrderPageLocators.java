@@ -15,7 +15,6 @@ public class ReOrderPageLocators {
 	public static By ORDERDETAILS_TITLE = By.cssSelector(".account-logged-in-row > h1");
 	public static By HEADER_REORDER_LINK = By.cssSelector(".header-nav-dropdown > ul >li:nth-child(2) > a");
 	
-	
-	
+		
 
 }

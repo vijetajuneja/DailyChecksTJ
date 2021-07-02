@@ -24,7 +24,6 @@ public class ValidateHomePage {
 			e1.printStackTrace();
 		}
 	}
-
 	@Test
 	public void TC_verifyLogoAndCategoriesOnHomePage() throws Exception {
 

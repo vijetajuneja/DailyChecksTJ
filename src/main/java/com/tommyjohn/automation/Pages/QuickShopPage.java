@@ -11,7 +11,6 @@ public class QuickShopPage {
 
 	public QuickShopPage(WebDriver driver) {
 		this.driver=driver;
-		// TODO Auto-generated constructor stub
 	}
 
 	public void QuickShopOnCollectionPage() throws Exception

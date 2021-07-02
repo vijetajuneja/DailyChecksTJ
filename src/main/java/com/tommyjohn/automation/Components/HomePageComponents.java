@@ -40,7 +40,6 @@ public class HomePageComponents extends HomePageLocators {
 
 		this.driver = driver;
 	}
-
 	//Verify logo and all category
 	public void ValidateLogoAndCategoriesPresence() throws Exception
 	{

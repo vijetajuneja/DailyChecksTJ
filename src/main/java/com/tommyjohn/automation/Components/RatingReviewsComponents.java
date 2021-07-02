@@ -25,7 +25,6 @@ public class RatingReviewsComponents extends ProductDetailsPageLocators
 	public RatingReviewsComponents(WebDriver driver) {
 		this.driver = driver;
 	}
-
 	public void RatingandReviews() throws Exception
 	{
 		jse = (JavascriptExecutor)driver;

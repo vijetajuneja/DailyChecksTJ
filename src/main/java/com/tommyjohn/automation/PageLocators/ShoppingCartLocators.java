@@ -3,7 +3,6 @@ package com.tommyjohn.automation.PageLocators;
 import org.openqa.selenium.By;
 
 public class ShoppingCartLocators {
-
 	public static By CART_TITLE = By.cssSelector(".cart__title");
 	public static By EMPTY_CART_MESSAGE = By.cssSelector(".cart__empty > h3");
 	public static By START_SHOPPING_BUTTON = By.cssSelector(".cart__empty > a");

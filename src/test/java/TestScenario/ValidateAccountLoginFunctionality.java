@@ -15,7 +15,7 @@ public class ValidateAccountLoginFunctionality {
 	String accountCreatedEmail;
 //	String accountCreatedEmail = "testaccount1558509824283@gmail.com";
 
-		
+	
 		
 	@BeforeMethod(alwaysRun = true)
 	@Parameters("browser")
