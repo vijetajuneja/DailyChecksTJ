@@ -37,10 +37,10 @@ public class ValidateSingleCollectionPages {
 			throws Exception { new
 		CollectionPage(driver).validateproductreviewstarsonOnSecondSkin(); }
 
-	@Test
-	public void TC_ValidateFiltersAndSortingOnSecondSkinInMenCategory()
-			throws Exception { new
-		CollectionPage(driver).validatefilterandsortonOnSecondSkin(); }
+//	@Test
+//	public void TC_ValidateFiltersAndSortingOnSecondSkinInMenCategory()
+//			throws Exception { new
+//		CollectionPage(driver).validatefilterandsortonOnSecondSkin(); }
 
 	@Test
 	public void TC_ValidateProductImageOnCoolCottonInMenCategory() throws
@@ -56,10 +56,10 @@ public class ValidateSingleCollectionPages {
 			throws Exception { new
 		CollectionPage(driver).validateproductreviewstarsonOnCoolCotton(); }
 
-	@Test
-	public void TC_ValidateFiltersAndSortingOnCoolCottonInMenCategory()
-			throws Exception { new
-		CollectionPage(driver).validatefilterandsortonOnCoolCotton(); }
+//	@Test
+//	public void TC_ValidateFiltersAndSortingOnCoolCottonInMenCategory()
+//			throws Exception { new
+//		CollectionPage(driver).validatefilterandsortonOnCoolCotton(); }
 
 
 	@Test
@@ -77,10 +77,10 @@ public class ValidateSingleCollectionPages {
 			throws Exception { new
 		CollectionPage(driver).validateproductreviewstarsonOnCottonBasics(); }
 
-	@Test 
-	public void TC_ValidateFiltersAndSortingOnCottonBasicsInShopByCollectionsCategory()
-			throws Exception { new
-		CollectionPage(driver).validatefilterandsortonOnCottonBasics(); }
+//	@Test 
+//	public void TC_ValidateFiltersAndSortingOnCottonBasicsInShopByCollectionsCategory()
+//			throws Exception { new
+//		CollectionPage(driver).validatefilterandsortonOnCottonBasics(); }
 
 	@Test
 	public void TC_ValidateProductImageOnAllWomensPacksInPacksCategory()
@@ -97,9 +97,9 @@ public class ValidateSingleCollectionPages {
 	Exception { new CollectionPage(driver).validateproductreviewstarsonOnPacks();
 	}
 
-	@Test
-	public void TC_ValidateFiltersAndSortingOnAllWomensPacksInPacksCategory() throws
-	Exception { new CollectionPage(driver).validatefilterandsortonOnPacks(); }
+//	@Test
+//	public void TC_ValidateFiltersAndSortingOnAllWomensPacksInPacksCategory() throws
+//	Exception { new CollectionPage(driver).validatefilterandsortonOnPacks(); }
 
 	@Test
 	public void TC_ValidateColorSwatchOnSecondSkin() throws Exception 

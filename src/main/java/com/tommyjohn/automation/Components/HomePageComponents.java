@@ -375,7 +375,7 @@ public class HomePageComponents extends HomePageLocators {
 			int allProductsOnPage1 = allProductsOnPage.size();
 			System.out.println("Out ddd :: "+allProductsOnPage1);
 			// check for hoverable class (if image is hoverable then it count two images for one image)
-			element = driver.findElement(SEARCHPAGE_PRODUCT_IMAGE);
+		//	element = driver.findElement(SEARCHPAGE_PRODUCT_IMAGE);
 			System.out.println("total displayed product on page :: "+allProductsOnPage1);
 			System.out.println("total displayed count of product :: "+totalDisplayedCount);
 			try{

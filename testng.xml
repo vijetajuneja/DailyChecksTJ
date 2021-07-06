@@ -208,6 +208,21 @@
 			</class>
 		</classes>
 	</test>
+	<test thread-count="1" name="QuizFlow" verbose="1"
+		parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateQuizFlow" />
+		</classes>
+	</test>
+
+	<test thread-count="1" name="LoadingALlCollectionPages"
+		verbose="1" parallel="tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="TestScenario.ValidateCollectionPage" />
+		</classes>
+	</test> 
 
 	
 </suite> 

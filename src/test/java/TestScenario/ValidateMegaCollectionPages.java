@@ -44,10 +44,10 @@ public class ValidateMegaCollectionPages {
 	{ new
 		CollectionPage(driver).validateproductreviewstarsonAllpanties(); }
 
-	@Test
-	public void TC_ValidateFiltersAndSortingOnAllPantiesInWomenCategory()
-			throws Exception { new
-		CollectionPage(driver).validatefilterandsortonAllpanties(); }
+//	@Test
+//	public void TC_ValidateFiltersAndSortingOnAllPantiesInWomenCategory()
+//			throws Exception { new
+//		CollectionPage(driver).validatefilterandsortonAllpanties(); }
 
 	@Test
 	public void TC_ValidateStyleCarouselOnAllPantiesInWomenCategory()
@@ -69,10 +69,10 @@ public class ValidateMegaCollectionPages {
 			throws Exception { new
 		CollectionPage(driver).validateproductreviewstarsonAllUnderwear(); }
 
-	@Test
-	public void TC_ValidateFiltersAndSortingOnAllUnderwearInMenCategory()
-			throws Exception { new
-		CollectionPage(driver).validatefilterandsortonAllUnderwear(); }
+//	@Test
+//	public void TC_ValidateFiltersAndSortingOnAllUnderwearInMenCategory()
+//			throws Exception { new
+//		CollectionPage(driver).validatefilterandsortonAllUnderwear(); }
 
 	@Test
 	public void TC_ValidateStyleCarouselOnAllUnderwearInMenCategory()
@@ -124,12 +124,12 @@ public class ValidateMegaCollectionPages {
 	Exception { 
 		new	CollectionPage(driver).validateproductreviewstarsonAllWomensCollection(); }
 
-	@Test
-	public void	TC_ValidateFiltersAndSortingOnAllWomensCollectioninWomenCategory() throws
-	Exception
-	{ 
-		new CollectionPage(driver).validatefilterandsortonAllWomensCollection(); 
-	}
+//	@Test
+//	public void	TC_ValidateFiltersAndSortingOnAllWomensCollectioninWomenCategory() throws
+//	Exception
+//	{ 
+//		new CollectionPage(driver).validatefilterandsortonAllWomensCollection(); 
+//	}
 
 	@Test
 	public void TC_ValidateColorSwatchOnAllPantiesInWomenCategory() throws
